@@ -48,7 +48,7 @@
 - Clean HTML5 DOCTYPE
 - Proper meta tags (charset, viewport, X-UA-Compatible)
 - Title format: `{PageName} - Konica Minolta`
-- Favicon linked to `/assets/images/icons/favicon-32x32.png`
+- Favicon linked to `/assets/images/logos/logo.svg`
 - CSS links to vendor and core stylesheets
 - Component containers for header, nav, footer
 - Vendor JS scripts at bottom

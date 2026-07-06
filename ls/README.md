@@ -30,3 +30,9 @@ npm run build:github
 ```
 
 That command exports the app and copies the generated static files into `/ls` so GitHub Pages can serve the microsite at `/op-os-playbook/ls/`.
+
+The exported `index.html` and `404.html` files are generated output. Edit the React source in `app/` and `components/`, then rebuild. To reformat the exported HTML without a full rebuild, run:
+
+```bash
+npm run prettify:export
+```

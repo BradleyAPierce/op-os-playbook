@@ -171,7 +171,7 @@ Every refactored page uses this structure:
       rel="icon"
       type="image/png"
       sizes="32x32"
-      href="/assets/images/icons/favicon-32x32.png" />
+      href="/assets/images/logos/logo.svg" />
 
     <!-- Global CSS - Vendor -->
     <link rel="stylesheet" href="/assets/css/vendor/bootstrap.min.css" />

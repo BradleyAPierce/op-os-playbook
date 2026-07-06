@@ -1,0 +1,565 @@
+export const headerHtml = `<header>
+  <nav class="navbar top-navbar">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="./">
+          <img
+            src="assets/images/logos/logo.svg"
+            alt="Konica Minolta"
+            class="img-responsive" />
+        </a>
+      </div>
+    </div>
+  </nav>
+</header>`;
+
+export const navHtml = `<div class="navbar yamm navbar-default">
+  <div class="container-fluid">
+    <div class="">
+      <a href="javascript:void(0);" id="toggle" class="navbar-toggle">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+    </div>
+    <div id="menu" class="navbar-collapse collapse header-menu p0">
+      <div class="menu-main-menu-container">
+        <ul id="menu-main-menu" class="nav navbar-nav">
+          <li
+            id="menu-item-152"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-152 dropdown yamm-fw">
+            <a
+              title="CORE SOLUTIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >CORE SOLUTIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4014"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4014">
+                        <a title="CLOUD" href="#">CLOUD</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3807"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3807">
+                                    <a
+                                      title="Device Management"
+                                      href="pages/core/cloud/device-management.html"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3809"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3809">
+                                    <a
+                                      title="Document Management"
+                                      href="pages/core/cloud/document-management.html"
+                                      >Document Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3812"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3812">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="pages/core/cloud/intelligent-document-processing.html"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3810"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3810">
+                                    <a
+                                      title="Fax Solutions"
+                                      href="pages/core/cloud/fax-solutions.html"
+                                      >Fax Solutions</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3814"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3814">
+                                    <a
+                                      title="Konica Minolta MarketPlace"
+                                      href="pages/core/cloud/konica-minolta-marketplace.html"
+                                      >Konica Minolta MarketPlace</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3817"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3817">
+                                    <a
+                                      title="Print Management"
+                                      href="pages/core/cloud/print-management.html"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3819"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3819">
+                                    <a
+                                      title="Security"
+                                      href="pages/core/cloud/security.html"
+                                      >Security</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li
+                        id="menu-item-4015"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4015">
+                        <a title="ON-PREMISES" href="#">ON-PREMISES</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3808"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3808">
+                                    <a
+                                      title="Device Management"
+                                      href="pages/core/on-premises/device-management.html"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3813"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="pages/core/on-premises/intelligent-document-processing.html"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3811"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3811">
+                                    <a
+                                      title="Integrated Option Solutions (bizhub i-Option)"
+                                      href="pages/core/on-premises/integrated-option-solutions.html"
+                                      >Integrated Option Solutions (bizhub
+                                      i-Option)</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3815"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815">
+                                    <a
+                                      title="Mobile Applications"
+                                      href="pages/core/on-premises/mobile-applications.html"
+                                      >Mobile Applications</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3816"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3816">
+                                    <a
+                                      title="PDF Editing"
+                                      href="pages/core/on-premises/pdf-editing.html"
+                                      >PDF Editing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3818"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3818">
+                                    <a
+                                      title="Print Management"
+                                      href="pages/core/on-premises/print-management.html"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3820"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3820">
+                                    <a
+                                      title="Security"
+                                      href="pages/core/on-premises/security.html"
+                                      >Security</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-88"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-88 dropdown yamm-fw">
+            <a
+              title="SUPPORTED SOLUTIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >SUPPORTED SOLUTIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4016"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4016">
+                        <a title="CLOUD" href="#">CLOUD</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3835"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3835">
+                                    <a
+                                      title="Device Management"
+                                      href="pages/support/cloud/device-management.html"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3841"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3841">
+                                    <a
+                                      title="Print Management"
+                                      href="pages/support/cloud/print-management.html"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-4018"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4018">
+                                    <a
+                                      title="Visitor Management"
+                                      href="pages/support/cloud/visitor-management.html"
+                                      >Visitor Management</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li
+                        id="menu-item-4017"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4017">
+                        <a title="ON-PREMISES" href="#">ON-PREMISES</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3836"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3836">
+                                    <a
+                                      title="Device Management"
+                                      href="pages/support/on-premises/device-management.html"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-4037"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4037">
+                                    <a
+                                      title="Document Management"
+                                      href="pages/support/on-premises/document-management.html"
+                                      >Document Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3838"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3838">
+                                    <a
+                                      title="Fax Solutions"
+                                      href="pages/support/on-premises/fax-solutions.html"
+                                      >Fax Solutions</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3839"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="pages/support/on-premises/intelligent-document-processing.html"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3840"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840">
+                                    <a
+                                      title="Pay for Print"
+                                      href="pages/support/on-premises/pay-for-print.html"
+                                      >Pay for Print</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3842"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3842">
+                                    <a
+                                      title="Print Management"
+                                      href="pages/support/on-premises/print-management.html"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3843"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3843">
+                                    <a
+                                      title="Visitor Management"
+                                      href="pages/support/on-premises/visitor-management.html"
+                                      >Visitor Management</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-4942"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4942 dropdown yamm-fw">
+            <a
+              title="DATA &amp; DOCUMENT SECURITY"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >DATA &amp; DOCUMENT SECURITY
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4944"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4944">
+                        <a
+                          title="Layered Security"
+                          href="pages/data-document-security/layered-security.html"
+                          >Layered Security</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4943"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4943">
+                        <a
+                          title="Layered Security Training"
+                          href="pages/data-document-security/layered-security-training.html"
+                          >Layered Security Training</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-3803"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3803 dropdown yamm-fw">
+            <a
+              title="VERTICAL"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >VERTICAL
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4254"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4254">
+                        <a title="Finance" href="pages/vertical/finance.html"
+                          >Finance</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3804"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3804">
+                        <a
+                          title="Healthcare"
+                          href="pages/vertical/healthcare.html"
+                          >Healthcare</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3805"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3805">
+                        <a title="Legal" href="pages/vertical/legal.html"
+                          >Legal</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3806"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3806">
+                        <a
+                          title="Public Sector (Education/Government)"
+                          href="pages/vertical/public-sector.html"
+                          >Public Sector (Education/Government)</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-155"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-155 dropdown yamm-fw">
+            <a
+              title="GRAPHIC COMMUNICATIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >GRAPHIC COMMUNICATIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4178"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4178">
+                        <a
+                          title="AccurioPro Solutions"
+                          href="pages/graphic-communications/accuriopro-solutions.html"
+                          >AccurioPro Solutions</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4179"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4179">
+                        <a
+                          title="e-Commerce"
+                          href="pages/graphic-communications/e-commerce.html"
+                          >e-Commerce</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4180"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4180">
+                        <a
+                          title="Management Information Systems (MIS) Solutions"
+                          href="pages/graphic-communications/management-information-systems.html"
+                          >Management Information Systems (MIS) Solutions</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4181"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4181">
+                        <a
+                          title="Transactional Variable Data Printing (VDP)"
+                          href="pages/graphic-communications/transactional-variable-data-printing.html"
+                          >Transactional Variable Data Printing (VDP)</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4182"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4182">
+                        <a
+                          title="Variable Data Printing"
+                          href="pages/graphic-communications/variable-data-printing.html"
+                          >Variable Data Printing</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4183"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4183">
+                        <a
+                          title="Workflow Solutions"
+                          href="pages/graphic-communications/workflow-solutions.html"
+                          >Workflow Solutions</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-4297"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4297 dropdown yamm-fw">
+            <a
+              title="SOLUTION ASSESSMENT QUESTIONS"
+              href="pages/other/solution-assessment-questions.html"
+              >SOLUTION ASSESSMENT QUESTIONS</a
+            >
+          </li>
+          <li
+            id="menu-item-4298"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4298 dropdown yamm-fw">
+            <a
+              title="GLOSSARY OF TERMS"
+              href="pages/other/glossary-of-terms.html"
+              >GLOSSARY OF TERMS</a
+            >
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>`;
+
+export const footerHtml = `<footer class="ligh-black-bg" style="padding: 20px 0">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="text-center">
+          <p
+            id="copyright"
+            style="
+              color: #ffffff;
+              font-size: 12px;
+              margin: 0;
+              max-width: 600px;
+              margin-left: auto;
+              margin-right: auto;
+            ">
+            ©2026 Konica Minolta, Inc. All rights reserved.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>`;
+
