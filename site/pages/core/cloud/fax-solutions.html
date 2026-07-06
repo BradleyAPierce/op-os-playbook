@@ -2,16 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <script>
-      /*Base path for GitHub Pages*/ (function () {
-        var b = document.createElement("base");
-        b.href =
-          location.hostname.indexOf(".github.io") > -1
-            ? "/" + location.pathname.split("/")[1] + "/"
-            : "/";
-        document.head.appendChild(b);
-      })();
-    </script>
+    <script>/*Base path for the site microsite*/(function(){var b=document.createElement("base");var p=location.pathname.split("/").filter(Boolean);var onGh=location.hostname.indexOf(".github.io")>-1;var repo=onGh&&p.length?"/"+p[0]:"";var microsite=p.indexOf("site")>-1?"/site":"";b.href=repo+microsite+"/";document.head.appendChild(b)})()</script>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Fax Solutions - Konica Minolta</title>
