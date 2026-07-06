@@ -1,0 +1,13 @@
+1:"$Sreact.fragment"
+2:I[39756,["/op-os-playbook/_next/static/chunks/158myu8e_yme3.js"],"default"]
+3:I[37457,["/op-os-playbook/_next/static/chunks/158myu8e_yme3.js"],"default"]
+4:I[77759,["/op-os-playbook/_next/static/chunks/158myu8e_yme3.js","/op-os-playbook/_next/static/chunks/1t9u8upk4sfga.js"],"LegacyScripts"]
+:HL["/op-os-playbook/_next/static/chunks/1z_mbvpkjhpd5.css","style"]
+:HL["/op-os-playbook/site/assets/css/vendor/bootstrap.min.css","style"]
+:HL["/op-os-playbook/site/assets/css/vendor/plugin.css","style"]
+:HL["/op-os-playbook/site/assets/css/vendor/utilities.css","style"]
+:HL["/op-os-playbook/site/assets/css/vendor/vendor.css","style"]
+:HL["/op-os-playbook/site/assets/css/vendor/style.css","style"]
+:HL["/op-os-playbook/site/assets/css/core/wordpress-extracted.css","style"]
+:HL["/op-os-playbook/site/assets/css/core/banner-fix.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/op-os-playbook/_next/static/chunks/1z_mbvpkjhpd5.css","precedence":"next"}],["$","script","script-0",{"src":"/op-os-playbook/_next/static/chunks/1t9u8upk4sfga.js","async":true}]],[[["$","link","/assets/css/vendor/bootstrap.min.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/vendor/bootstrap.min.css"}],["$","link","/assets/css/vendor/plugin.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/vendor/plugin.css"}],["$","link","/assets/css/vendor/utilities.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/vendor/utilities.css"}],["$","link","/assets/css/vendor/vendor.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/vendor/vendor.css"}],["$","link","/assets/css/vendor/style.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/vendor/style.css"}],["$","link","/assets/css/core/wordpress-extracted.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/core/wordpress-extracted.css"}],["$","link","/assets/css/core/banner-fix.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/core/banner-fix.css"}]],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/op-os-playbook/site/assets/images/logos/logo.svg"}],["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}],["$","$L4",null,{"assetBase":"/op-os-playbook/site"}]]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kCFZO_UgxEs_XWubas91n"}
