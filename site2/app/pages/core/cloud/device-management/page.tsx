@@ -1,6 +1,6 @@
 import { LegacyPage } from "../../../../../components/LegacyPage";
-import { deviceManagement } from "../../../../../data/legacy-pages";
+import { pagesCoreCloudDeviceManagement } from "../../../../../data/legacy-pages";
 
-export default function DeviceManagementPage() {
-  return <LegacyPage bodyClass={deviceManagement.bodyClass} html={deviceManagement.html} />;
+export default function PagesCoreCloudDeviceManagementPage() {
+  return <LegacyPage bodyClass={pagesCoreCloudDeviceManagement.bodyClass} html={pagesCoreCloudDeviceManagement.html} />;
 }

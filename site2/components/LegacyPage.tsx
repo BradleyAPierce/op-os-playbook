@@ -1,5 +1,6 @@
 import { BodyClass } from "./BodyClass";
 import { footerHtml, headerHtml, navHtml } from "../data/legacy-components";
+import { migratedRoutes } from "../data/legacy-routes";
 
 type LegacyPageProps = {
   bodyClass: string;
@@ -9,13 +10,6 @@ type LegacyPageProps = {
 const site2Base = process.env.GITHUB_PAGES === "true" ? "/op-os-playbook/site2" : "";
 const siteBase = process.env.GITHUB_PAGES === "true" ? "/op-os-playbook/site" : "/site";
 
-const pilotRoutes: Record<string, string> = {
-  "pages/index.html": "/pages/index/",
-  "pages/core/cloud/device-management.html": "/pages/core/cloud/device-management/",
-  "pages/data-document-security/layered-security.html":
-    "/pages/data-document-security/layered-security/"
-};
-
 function rewriteHtml(html: string) {
   return html
     .replaceAll('href="./"', `href="${site2Base}/pages/index/"`)
@@ -23,10 +17,10 @@ function rewriteHtml(html: string) {
     .replaceAll('src="assets/', `src="${site2Base}/assets/`)
     .replace(/href="pages\/([^"]+?\.html)"/g, (_match, route: string) => {
       const legacyRoute = `pages/${route}`;
-      const pilotRoute = pilotRoutes[legacyRoute];
+      const migratedRoute = migratedRoutes[legacyRoute];
 
-      if (pilotRoute) {
-        return `href="${site2Base}${pilotRoute}"`;
+      if (migratedRoute) {
+        return `href="${site2Base}${migratedRoute}"`;
       }
 
       return `href="${siteBase}/${legacyRoute}"`;
@@ -38,7 +32,7 @@ export function LegacyPage({ bodyClass, html }: LegacyPageProps) {
     <>
       <BodyClass className={bodyClass} />
       <div className="site2-pilot-banner">
-        Next.js static pilot. Non-converted nav links open the legacy /site microsite.
+        Next.js static migration preview. Legacy visuals are preserved for parity.
       </div>
       <div dangerouslySetInnerHTML={{ __html: rewriteHtml(headerHtml) }} />
       <div dangerouslySetInnerHTML={{ __html: rewriteHtml(navHtml) }} />

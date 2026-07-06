@@ -1,0 +1,972 @@
+1:"$Sreact.fragment"
+2:I[39756,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[63955,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js","/op-os-playbook/site2/_next/static/chunks/0nm6rom1cj7-s.js"],"BodyClass"]
+c:I[68027,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/op-os-playbook/site2/_next/static/chunks/2vnp73tnjxw2m.css","style"]
+:HL["/op-os-playbook/site2/assets/css/vendor/bootstrap.min.css","style"]
+:HL["/op-os-playbook/site2/assets/css/vendor/plugin.css","style"]
+:HL["/op-os-playbook/site2/assets/css/vendor/utilities.css","style"]
+:HL["/op-os-playbook/site2/assets/css/vendor/vendor.css","style"]
+:HL["/op-os-playbook/site2/assets/css/vendor/style.css","style"]
+:HL["/op-os-playbook/site2/assets/css/core/wordpress-extracted.css","style"]
+:HL["/op-os-playbook/site2/assets/css/core/banner-fix.css","style"]
+0:{"P":null,"c":["","pages","vertical","healthcare",""],"q":"","i":false,"f":[[["",{"children":["pages",{"children":["vertical",{"children":["healthcare",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/op-os-playbook/site2/_next/static/chunks/2vnp73tnjxw2m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[[["$","link","/assets/css/vendor/bootstrap.min.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/bootstrap.min.css"}],["$","link","/assets/css/vendor/plugin.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/plugin.css"}],["$","link","/assets/css/vendor/utilities.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/utilities.css"}],["$","link","/assets/css/vendor/vendor.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/vendor.css"}],["$","link","/assets/css/vendor/style.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/style.css"}],["$","link","/assets/css/core/wordpress-extracted.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/core/wordpress-extracted.css"}],["$","link","/assets/css/core/banner-fix.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/core/banner-fix.css"}]],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/op-os-playbook/site2/assets/images/logos/logo.svg"}]]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"src":"/op-os-playbook/site2/assets/js/vendor/jquery.min.js"}],["$","script",null,{"src":"/op-os-playbook/site2/assets/js/vendor/bootstrap.min.js"}],["$","script",null,{"src":"/op-os-playbook/site2/assets/js/vendor/plugin.js"}],["$","script",null,{"src":"/op-os-playbook/site2/assets/js/vendor/vendor.js"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","$L4",null,{"className":"bg-sage-green"}],["$","div",null,{"className":"site2-pilot-banner","children":"Next.js static migration preview. Legacy visuals are preserved for parity."}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<header>\n  <nav class=\"navbar top-navbar\">\n    <div class=\"container-fluid\">\n      <div class=\"navbar-header\">\n        <a class=\"navbar-brand\" href=\"/op-os-playbook/site2/pages/index/\">\n          <img\n            src=\"/op-os-playbook/site2/assets/images/logos/logo.svg\"\n            alt=\"Konica Minolta\"\n            class=\"img-responsive\" />\n        </a>\n      </div>\n    </div>\n  </nav>\n</header>"}}],"$L5","$L6","$L7"],["$L8"],"$L9"]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"V6CVpQhxVZTujqEqPcw-F"}
+10:I[97367,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:I[97367,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+16:I[97367,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+e:T689a,<div class="navbar yamm navbar-default">
+  <div class="container-fluid">
+    <div class="">
+      <a href="javascript:void(0);" id="toggle" class="navbar-toggle">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+    </div>
+    <div id="menu" class="navbar-collapse collapse header-menu p0">
+      <div class="menu-main-menu-container">
+        <ul id="menu-main-menu" class="nav navbar-nav">
+          <li
+            id="menu-item-152"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-152 dropdown yamm-fw">
+            <a
+              title="CORE SOLUTIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >CORE SOLUTIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4014"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4014">
+                        <a title="CLOUD" href="#">CLOUD</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3807"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3807">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site2/pages/core/cloud/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3809"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3809">
+                                    <a
+                                      title="Document Management"
+                                      href="/op-os-playbook/site2/pages/core/cloud/document-management/"
+                                      >Document Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3812"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3812">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="/op-os-playbook/site2/pages/core/cloud/intelligent-document-processing/"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3810"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3810">
+                                    <a
+                                      title="Fax Solutions"
+                                      href="/op-os-playbook/site2/pages/core/cloud/fax-solutions/"
+                                      >Fax Solutions</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3814"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3814">
+                                    <a
+                                      title="Konica Minolta MarketPlace"
+                                      href="/op-os-playbook/site2/pages/core/cloud/konica-minolta-marketplace/"
+                                      >Konica Minolta MarketPlace</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3817"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3817">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site2/pages/core/cloud/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3819"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3819">
+                                    <a
+                                      title="Security"
+                                      href="/op-os-playbook/site2/pages/core/cloud/security/"
+                                      >Security</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li
+                        id="menu-item-4015"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4015">
+                        <a title="ON-PREMISES" href="#">ON-PREMISES</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3808"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3808">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3813"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/intelligent-document-processing/"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3811"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3811">
+                                    <a
+                                      title="Integrated Option Solutions (bizhub i-Option)"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/integrated-option-solutions/"
+                                      >Integrated Option Solutions (bizhub
+                                      i-Option)</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3815"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815">
+                                    <a
+                                      title="Mobile Applications"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/mobile-applications/"
+                                      >Mobile Applications</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3816"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3816">
+                                    <a
+                                      title="PDF Editing"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/pdf-editing/"
+                                      >PDF Editing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3818"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3818">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3820"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3820">
+                                    <a
+                                      title="Security"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/security/"
+                                      >Security</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-88"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-88 dropdown yamm-fw">
+            <a
+              title="SUPPORTED SOLUTIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >SUPPORTED SOLUTIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4016"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4016">
+                        <a title="CLOUD" href="#">CLOUD</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3835"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3835">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site2/pages/support/cloud/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3841"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3841">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site2/pages/support/cloud/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-4018"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4018">
+                                    <a
+                                      title="Visitor Management"
+                                      href="/op-os-playbook/site2/pages/support/cloud/visitor-management/"
+                                      >Visitor Management</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li
+                        id="menu-item-4017"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4017">
+                        <a title="ON-PREMISES" href="#">ON-PREMISES</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3836"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3836">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-4037"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4037">
+                                    <a
+                                      title="Document Management"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/document-management/"
+                                      >Document Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3838"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3838">
+                                    <a
+                                      title="Fax Solutions"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/fax-solutions/"
+                                      >Fax Solutions</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3839"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/intelligent-document-processing/"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3840"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840">
+                                    <a
+                                      title="Pay for Print"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/pay-for-print/"
+                                      >Pay for Print</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3842"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3842">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3843"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3843">
+                                    <a
+                                      title="Visitor Management"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/visitor-management/"
+                                      >Visitor Management</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-4942"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4942 dropdown yamm-fw">
+            <a
+              title="DATA &amp; DOCUMENT SECURITY"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >DATA &amp; DOCUMENT SECURITY
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4944"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4944">
+                        <a
+                          title="Layered Security"
+                          href="/op-os-playbook/site2/pages/data-document-security/layered-security/"
+                          >Layered Security</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4943"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4943">
+                        <a
+                          title="Layered Security Training"
+                          href="/op-os-playbook/site2/pages/data-document-security/layered-security-training/"
+                          >Layered Security Training</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-3803"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3803 dropdown yamm-fw">
+            <a
+              title="VERTICAL"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >VERTICAL
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4254"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4254">
+                        <a title="Finance" href="/op-os-playbook/site2/pages/vertical/finance/"
+                          >Finance</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3804"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3804">
+                        <a
+                          title="Healthcare"
+                          href="/op-os-playbook/site2/pages/vertical/healthcare/"
+                          >Healthcare</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3805"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3805">
+                        <a title="Legal" href="/op-os-playbook/site2/pages/vertical/legal/"
+                          >Legal</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3806"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3806">
+                        <a
+                          title="Public Sector (Education/Government)"
+                          href="/op-os-playbook/site2/pages/vertical/public-sector/"
+                          >Public Sector (Education/Government)</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-155"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-155 dropdown yamm-fw">
+            <a
+              title="GRAPHIC COMMUNICATIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >GRAPHIC COMMUNICATIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4178"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4178">
+                        <a
+                          title="AccurioPro Solutions"
+                          href="/op-os-playbook/site2/pages/graphic-communications/accuriopro-solutions/"
+                          >AccurioPro Solutions</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4179"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4179">
+                        <a
+                          title="e-Commerce"
+                          href="/op-os-playbook/site2/pages/graphic-communications/e-commerce/"
+                          >e-Commerce</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4180"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4180">
+                        <a
+                          title="Management Information Systems (MIS) Solutions"
+                          href="/op-os-playbook/site2/pages/graphic-communications/management-information-systems/"
+                          >Management Information Systems (MIS) Solutions</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4181"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4181">
+                        <a
+                          title="Transactional Variable Data Printing (VDP)"
+                          href="/op-os-playbook/site2/pages/graphic-communications/transactional-variable-data-printing/"
+                          >Transactional Variable Data Printing (VDP)</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4182"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4182">
+                        <a
+                          title="Variable Data Printing"
+                          href="/op-os-playbook/site2/pages/graphic-communications/variable-data-printing/"
+                          >Variable Data Printing</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4183"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4183">
+                        <a
+                          title="Workflow Solutions"
+                          href="/op-os-playbook/site2/pages/graphic-communications/workflow-solutions/"
+                          >Workflow Solutions</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-4297"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4297 dropdown yamm-fw">
+            <a
+              title="SOLUTION ASSESSMENT QUESTIONS"
+              href="/op-os-playbook/site2/pages/other/solution-assessment-questions/"
+              >SOLUTION ASSESSMENT QUESTIONS</a
+            >
+          </li>
+          <li
+            id="menu-item-4298"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4298 dropdown yamm-fw">
+            <a
+              title="GLOSSARY OF TERMS"
+              href="/op-os-playbook/site2/pages/other/glossary-of-terms/"
+              >GLOSSARY OF TERMS</a
+            >
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]
+f:T4a8c,<div class="page">
+      <div class="ligh-gray-bg">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-12">
+              <ul class="breadcrumb">
+                <li>
+                  <a class="bread-link bread-home" href="/op-os-playbook/site2/pages/index/" title="Home"
+                    >Home</a
+                  >
+                </li>
+                <li>Vertical</li>
+                <li class="active">Healthcare</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- === Hero Banner Start === -->
+      <section class="inherobanner">
+        <div class="heroslides owl-carousel owl-theme owl-loaded">
+          <div class="owl-stage-outer">
+            <div class="owl-stage">
+              <div class="owl-item active">
+                <div class="slides">
+                  <img
+                    src="/op-os-playbook/site2/assets/images/content/img.jpg"
+                    class="bg-img"
+                    alt="" />
+                  <div class="caption hasrelative">
+                    <div class="row">
+                      <div class="col-sm-12">
+                        <h1>Healthcare</h1>
+                        <hr class="small-hr" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="owl-nav disabled">
+            <div class="owl-prev">prev</div>
+            <div class="owl-next">next</div>
+          </div>
+          <div class="owl-dots disabled"></div>
+        </div>
+      </section>
+
+      <section class="white-bg has-relative section pb0">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="innercontent">
+                <div
+                  id="collapse3"
+                  class="panel-collapse collapse in"
+                  role="tabpanel"
+                  aria-labelledby="heading3"
+                  aria-expanded="true">
+                  <div class="panel-body">
+                    <p>
+                      <img
+                        decoding="async"
+                        class="alignnone size-medium wp-image-2490"
+                        src="/op-os-playbook/site2/assets/images/content/12-Vertical-markets-Value-Proposition01--300x118.jpg"
+                        alt=""
+                        width="300"
+                        height="118" />
+                    </p>
+                    <p>
+                      Delivering quality patient care is a healthcare providers'
+                      first priority; however, the business of healthcare can be
+                      challenging and costly and finding the right healthcare
+                      solutions for their hospital, practice or extended care
+                      facility can also pose great difficulty. Konica Minolta
+                      and All Covered, our national Managed IT Services
+                      division, can improve the health of their organization's
+                      productivity with an array of products, solutions and
+                      services configured for their budget to solve their unique
+                      challenges, so they can concentrate on providing the
+                      highest level of patient care.
+                    </p>
+                    <p>
+                      Our specialized healthcare teams deliver world-class and
+                      award-winning MFPs and integrated document management
+                      solutions, managed IT and cloud services,
+                      <span data-olk-copy-source="MessageBody"
+                        >Intelligent Information Management solutions</span
+                      >, VoIP, video security solutions, and data security and
+                      compliance consulting to ensure HIPAA readiness and
+                      ongoing compliance with the growing state and national
+                      healthcare regulatory requirements.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div>
+        <section
+          class="section scroll-section has-relative left-containt-section solid-border"
+          id="dispatcher-phoenix-healthcare">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-sm-7">
+                <div class="innercontent">
+                  <ul class="inline type-none">
+                    <li>
+                      <img
+                        src="/op-os-playbook/site2/assets/images/content/dispatcher-suite-logo-outlines.png"
+                        alt="" />
+                    </li>
+                  </ul>
+
+                  <p>
+                    <!--more-->Dispatcher Phoenix, Dispatcher Stratus and
+                    Dispatcher Paragon offers everything from scan capture, to
+                    document automation and secure print release solving many
+                    workflow challenges.&nbsp; Paragon includes Epic EHR
+                    connectivity for secure print release in larger hospitals or
+                    clinics, and Dispatcher Phoenix provides advanced workflow
+                    automation assisting customers dealing with time-consuming
+                    and costly manual processes as previously mentioned.&nbsp;
+                    Stratus is a cloud-based workflow automation option for
+                    customers preferring to minimize or eliminate on-prim
+                    servers.&nbsp; It includes much of the capability of
+                    Dispatcher Phoenix, and also offers electronic forms, which
+                    can help smaller healthcare organizations more effectively
+                    manage their patient intake processes at pre-registration
+                    and check-in.Key features for hospitals, clinics, and other
+                    healthcare customers include:
+                  </p>
+                  <ul>
+                    <li>
+                      Upload to Content Management Systems. Dispatcher Phoenix
+                      allows you to index, scan and store your paper-based
+                      patient records, charts, lab reports, claims and other
+                      documents to OnBase by Highland, one of the leading
+                      enterprise content management systems used by the
+                      healthcare industry today.
+                    </li>
+                    <li>
+                      Print Secure Prescriptions. Consistent with tamper
+                      resistant security regulations mandated by the Center for
+                      Medicare and Medicaid Services, the Rx Shield process
+                      applies anti-copy, anti-erasure and pharmacy alerts to
+                      prescriptions printed on plain paper, eliminating the need
+                      for costly pre-printed prescription forms.
+                    </li>
+                    <li>
+                      Maintain Security Standards. To assist with HIPAA
+                      compliance, Dispatcher Phoenix provides support for HID
+                      authentication, audit trails to identify where documents
+                      are going, and file conversion to password-protected PDFs.
+                      And, to ensure the confidentiality of patient information,
+                      Dispatcher Phoenix Healthcare includes an intelligent
+                      redaction process that permanently removes all Personally
+                      Identifiable Information (PII) and Protected Health
+                      Information (PHI) from medical records.
+                    </li>
+                    <li>
+                      Integrated EHR Scanning (HL7 &amp; CDA
+                      Compatible).&nbsp;With Dispatcher Phoenix's HL7
+                      Connectivity, staff can securely scan patient information
+                      from a Konica Minolta MFP and easily attach that
+                      information to the patient record in an EHR. In addition,
+                      with Dispatcher Phoenix's CDA Generator, healthcare
+                      professionals can automatically process medical documents
+                      and patient data into standard HL7 CDA documents, allowing
+                      the documents to be communicated between major medical
+                      providers and systems. Using Dispatcher Phoenix's
+                      intuitive interface at the MFP, staff can easily look up
+                      patient data, input additional information such as patient
+                      name and medical record number, choose the appropriate
+                      document type, and send as an HL7 message to your
+                      patient's EHR.
+                    </li>
+                  </ul>
+                  <p>&nbsp;</p>
+                </div>
+              </div>
+
+              <div class="col-sm-5">
+                <div class="sidebar invert">
+                  <h2 class="font-30">Benefits</h2>
+
+                  <ul class="list">
+                    <li>
+                      Enhanced connectivity with scan to Electronic Health
+                      Record Systems (EHR) via HL7 or CDA formats, and a
+                      connector to OnBase.
+                    </li>
+                    <li>
+                      Rx Shield for secure, plain paper prescription printing.
+                    </li>
+                    <li>
+                      File conversion processes to quickly secure and index
+                      patient records.
+                    </li>
+                    <li>Barcode recognition to manage medical documents.</li>
+                    <li>
+                      Intelligent redaction to comply with HIPAA security
+                      concerns.
+                    </li>
+                    <li>
+                      Advanced OCR to automatically extract patient data for use
+                      in other applications.
+                    </li>
+                    <li>
+                      Metadata handling for metadata creation, routing and
+                      scripting.
+                    </li>
+                    <li>
+                      • E-Forms management to digitize paper forms and expedite
+                      the patient check-in process
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          class="section scroll-section has-relative right-containt-section solid-border"
+          id="upland-interfax">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-sm-7 col-sm-push-5">
+                <div class="innercontent">
+                  <ul class="inline type-none">
+                    <li>
+                      <img
+                        src="/op-os-playbook/site2/assets/images/content/InterFAX-Logo.jpg"
+                        alt="" />
+                    </li>
+                  </ul>
+
+                  <p>
+                    <span data-teams="true"
+                      >While faxing remains a HIPAA-compliant and user-friendly
+                      means of sharing health information, the persistent use of
+                      physical fax machines poses serious risks to privacy and
+                      security. Data security concerns have fueled a growing
+                      trend toward adopting cloud-based services in the
+                      healthcare industry. Healthcare organizations are
+                      increasingly investing in cloud services to enhance
+                      security, regulatory compliance, agility, innovation,
+                      efficiency, and cost reduction. By replacing traditional
+                      with cloud fax, the healthcare industry can mitigate risks
+                      associated with physical fax infrastructure and
+                      participate in more robust and protected health data
+                      exchange by leveling the playing field.</span
+                    >
+                  </p>
+                </div>
+              </div>
+
+              <div class="col-sm-5 col-sm-pull-7">
+                <div class="sidebar invert">
+                  <h2 class="font-30">Benefits</h2>
+
+                  <ul class="list">
+                    <li>
+                      Streamlined workflow: Cloud faxing eliminates the need for
+                      physical printing, mailing.
+                    </li>
+                    <li>
+                      Enhanced security: Cloud-based portals provide a secure
+                      location for storing and accessing faxes, ensuring the
+                      confidentiality and privacy.
+                    </li>
+                    <li>
+                      Cost savings: Eliminate the need for dedicated phone lines
+                      and associated maintenance costs, resulting in significant
+                      cost savings.
+                    </li>
+                    <li>
+                      Integration with EHR and emerging technologies: Digitizing
+                      fax workflows allows for integrating artificial
+                      intelligence (AI) and other emerging technologies.
+                      AI-powered systems can automate post-processing tasks,
+                      reducing errors and increasing efficiency.
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          class="section scroll-section has-relative left-containt-section solid-border"
+          id="healthcare-enabled-mfp-by-kno2">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-sm-7">
+                <div class="innercontent">
+                  <ul class="inline type-none">
+                    <li>
+                      <img
+                        src="/op-os-playbook/site2/assets/images/content/OIP-1-scaled-e1761597320717.jpg"
+                        alt="" />
+                    </li>
+                  </ul>
+
+                  <p>
+                    Sharing information between providers, patients, and health
+                    plans has never been more important — or more challenging.
+                    Despite the implementation of electronic health records,
+                    paper continues to play a role in many clinical and
+                    administrative processes. Further, scanning documents to a
+                    patient's health record can be a complicated and disjointed
+                    process, requiring multiple steps with manual, error-prone
+                    processes, consuming administrative staff time. Sharing
+                    those documents is largely dependent on legacy fax machines,
+                    which pose potential security risks.
+                  </p>
+                  <p>
+                    The Konica Minolta Healthcare-Enabled MFP Plus, driven by
+                    the bizhub One i-Series intuitive interface with Kno2
+                    Connected™ integration, enables healthcare providers to
+                    quickly and securely capture, store, and share patient
+                    information across the care continuum. With the Healthcare
+                    MFP, customers are able to enhance care coordination, reduce
+                    costs, maximize staff productivity, and most importantly,
+                    improve patient care via the following capabilities:
+                  </p>
+                  <ul>
+                    <li>
+                      EHR-integrated scanning to a variety of EHR systems, with
+                      particular emphasis on Extended Care
+                    </li>
+                    <li>Direct Messaging for PHI Exchange</li>
+                    <li>HIPAA-Compliant Cloud Fax for PHI Exchange*</li>
+                    <li>Non-Patient Related Cloud Fax*</li>
+                  </ul>
+                  <p>
+                    *Kno2 also provides a HIPAA-compliant, patient-centric cloud
+                    fax service, allowing users to fax documents from their
+                    desktop via API integration into applicable EHRs, as well as
+                    from the bizhub MFP via the connector app.
+                  </p>
+                </div>
+              </div>
+
+              <div class="col-sm-5">
+                <div class="sidebar invert">
+                  <h2 class="font-30">Benefits</h2>
+
+                  <ul class="list">
+                    <li>
+                      Improves timeliness, accuracy, security and "structure" of
+                      vital patient information used within any healthcare
+                      community.
+                    </li>
+                    <li>
+                      Drives improved processes during patient / resident intake
+                      by providing a more streamlined ability to attach
+                      documents to the EHR.
+                    </li>
+                    <li>
+                      Supports Direct Messages by intelligently automating the
+                      receipt and delivery of messages with attachments across a
+                      secure point-to-point Direct-compliant network.
+                    </li>
+                    <li>
+                      Enables faster, more accurate transfers of care, referrals
+                      and other record-sharing activities with outside providers
+                      and partners by sending and receiving Direct Messages, as
+                      well as HIPAA-Compliant Cloud Fax options.
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <section class="scrollMenu jump_nav_scroll_sidebar">
+        <div class="btn-top-sidebar">
+          <a href="javascript:void('');" class="sc"
+            ><i class="fa fa-angle-left"></i
+          ></a>
+        </div>
+
+        <ul class="list" id="nav-tabs-wrapper">
+          <li>
+            <a
+              class="goto sc"
+              data-toggle="tab"
+              href="#dispatcher-phoenix-healthcare"
+              >Dispatcher Phoenix Healthcare</a
+            >
+          </li>
+
+          <li>
+            <a class="goto sc" data-toggle="tab" href="#upland-interfax"
+              >Upland InterFAX</a
+            >
+          </li>
+
+          <li>
+            <a
+              class="goto sc"
+              data-toggle="tab"
+              href="#healthcare-enabled-mfp-by-kno2"
+              >Healthcare Enabled MFP by Kno2</a
+            >
+          </li>
+        </ul>
+      </section>
+    </div>
+    <!-- === Page Id End === -->6:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]
+7:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<footer class=\"ligh-black-bg\" style=\"padding: 20px 0\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-xs-12\">\n        <div class=\"text-center\">\n          <p\n            id=\"copyright\"\n            style=\"\n              color: #ffffff;\n              font-size: 12px;\n              margin: 0;\n              max-width: 600px;\n              margin-left: auto;\n              margin-right: auto;\n            \">\n            ©2026 Konica Minolta, Inc. All rights reserved.\n          </p>\n        </div>\n      </div>\n    </div>\n  </div>\n</footer>"}}]
+8:["$","script","script-0",{"src":"/op-os-playbook/site2/_next/static/chunks/0nm6rom1cj7-s.js","async":true,"nonce":"$undefined"}]
+9:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+13:[]
+a:"$W13"
+b:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L17"}]}]}],null]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/op-os-playbook/site2/_next/static/chunks/2vnp73tnjxw2m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:null
+17:[["$","title","0",{"children":"MKM Solutions Site2 Pilot"}],["$","meta","1",{"name":"description","content":"Next.js static export pilot for the MKM Solutions microsite."}]]

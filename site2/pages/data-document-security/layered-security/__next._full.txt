@@ -1,9 +1,8 @@
 1:"$Sreact.fragment"
-2:I[39756,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-3:I[37457,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-4:I[79520,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],""]
-5:I[63955,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js","/op-os-playbook/site2/_next/static/chunks/0nm6rom1cj7-s.js"],"BodyClass"]
-e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+2:I[39756,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[63955,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js","/op-os-playbook/site2/_next/static/chunks/0nm6rom1cj7-s.js"],"BodyClass"]
+d:I[68027,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
 :HL["/op-os-playbook/site2/_next/static/chunks/2vnp73tnjxw2m.css","style"]
 :HL["/op-os-playbook/site2/assets/css/vendor/bootstrap.min.css","style"]
 :HL["/op-os-playbook/site2/assets/css/vendor/plugin.css","style"]
@@ -12,13 +11,13 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
 :HL["/op-os-playbook/site2/assets/css/vendor/style.css","style"]
 :HL["/op-os-playbook/site2/assets/css/core/wordpress-extracted.css","style"]
 :HL["/op-os-playbook/site2/assets/css/core/banner-fix.css","style"]
-0:{"P":null,"c":["","pages","data-document-security","layered-security",""],"q":"","i":false,"f":[[["",{"children":["pages",{"children":["data-document-security",{"children":["layered-security",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/op-os-playbook/site2/_next/static/chunks/2vnp73tnjxw2m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[[["$","link","/assets/css/vendor/bootstrap.min.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/bootstrap.min.css"}],["$","link","/assets/css/vendor/plugin.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/plugin.css"}],["$","link","/assets/css/vendor/utilities.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/utilities.css"}],["$","link","/assets/css/vendor/vendor.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/vendor.css"}],["$","link","/assets/css/vendor/style.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/style.css"}],["$","link","/assets/css/core/wordpress-extracted.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/core/wordpress-extracted.css"}],["$","link","/assets/css/core/banner-fix.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/core/banner-fix.css"}]],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/op-os-playbook/site2/assets/images/logos/logo.svg"}]]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{"src":"/op-os-playbook/site2/assets/js/vendor/jquery.min.js","strategy":"beforeInteractive"}],["$","$L4",null,{"src":"/op-os-playbook/site2/assets/js/vendor/bootstrap.min.js","strategy":"afterInteractive"}],["$","$L4",null,{"src":"/op-os-playbook/site2/assets/js/vendor/plugin.js","strategy":"afterInteractive"}],["$","$L4",null,{"src":"/op-os-playbook/site2/assets/js/vendor/vendor.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","$L5",null,{"className":"default"}],["$","div",null,{"className":"site2-pilot-banner","children":"Next.js static pilot. Non-converted nav links open the legacy /site microsite."}],"$L6","$L7","$L8","$L9"],["$La"],"$Lb"]}],{},null,false,null]},null,false,"$@c"]},null,false,"$@c"]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_vejYxeYhziZWxGHSQCI_"}
-12:I[97367,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
-13:"$Sreact.suspense"
-16:I[97367,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
-18:I[97367,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
-6:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<header>\n  <nav class=\"navbar top-navbar\">\n    <div class=\"container-fluid\">\n      <div class=\"navbar-header\">\n        <a class=\"navbar-brand\" href=\"/op-os-playbook/site2/pages/index/\">\n          <img\n            src=\"/op-os-playbook/site2/assets/images/logos/logo.svg\"\n            alt=\"Konica Minolta\"\n            class=\"img-responsive\" />\n        </a>\n      </div>\n    </div>\n  </nav>\n</header>"}}]
-10:T6906,<div class="navbar yamm navbar-default">
+0:{"P":null,"c":["","pages","data-document-security","layered-security",""],"q":"","i":false,"f":[[["",{"children":["pages",{"children":["data-document-security",{"children":["layered-security",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/op-os-playbook/site2/_next/static/chunks/2vnp73tnjxw2m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[[["$","link","/assets/css/vendor/bootstrap.min.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/bootstrap.min.css"}],["$","link","/assets/css/vendor/plugin.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/plugin.css"}],["$","link","/assets/css/vendor/utilities.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/utilities.css"}],["$","link","/assets/css/vendor/vendor.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/vendor.css"}],["$","link","/assets/css/vendor/style.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/vendor/style.css"}],["$","link","/assets/css/core/wordpress-extracted.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/core/wordpress-extracted.css"}],["$","link","/assets/css/core/banner-fix.css",{"rel":"stylesheet","href":"/op-os-playbook/site2/assets/css/core/banner-fix.css"}]],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/op-os-playbook/site2/assets/images/logos/logo.svg"}]]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"src":"/op-os-playbook/site2/assets/js/vendor/jquery.min.js"}],["$","script",null,{"src":"/op-os-playbook/site2/assets/js/vendor/bootstrap.min.js"}],["$","script",null,{"src":"/op-os-playbook/site2/assets/js/vendor/plugin.js"}],["$","script",null,{"src":"/op-os-playbook/site2/assets/js/vendor/vendor.js"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","$L4",null,{"className":"default"}],["$","div",null,{"className":"site2-pilot-banner","children":"Next.js static migration preview. Legacy visuals are preserved for parity."}],"$L5","$L6","$L7","$L8"],["$L9"],"$La"]}],{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"V6CVpQhxVZTujqEqPcw-F"}
+11:I[97367,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:I[97367,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+17:I[97367,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<header>\n  <nav class=\"navbar top-navbar\">\n    <div class=\"container-fluid\">\n      <div class=\"navbar-header\">\n        <a class=\"navbar-brand\" href=\"/op-os-playbook/site2/pages/index/\">\n          <img\n            src=\"/op-os-playbook/site2/assets/images/logos/logo.svg\"\n            alt=\"Konica Minolta\"\n            class=\"img-responsive\" />\n        </a>\n      </div>\n    </div>\n  </nav>\n</header>"}}]
+f:T689a,<div class="navbar yamm navbar-default">
   <div class="container-fluid">
     <div class="">
       <a href="javascript:void(0);" id="toggle" class="navbar-toggle">
@@ -69,7 +68,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3809">
                                     <a
                                       title="Document Management"
-                                      href="/op-os-playbook/site/pages/core/cloud/document-management.html"
+                                      href="/op-os-playbook/site2/pages/core/cloud/document-management/"
                                       >Document Management</a
                                     >
                                   </li>
@@ -78,7 +77,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3812">
                                     <a
                                       title="Intelligent Document Processing"
-                                      href="/op-os-playbook/site/pages/core/cloud/intelligent-document-processing.html"
+                                      href="/op-os-playbook/site2/pages/core/cloud/intelligent-document-processing/"
                                       >Intelligent Document Processing</a
                                     >
                                   </li>
@@ -87,7 +86,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3810">
                                     <a
                                       title="Fax Solutions"
-                                      href="/op-os-playbook/site/pages/core/cloud/fax-solutions.html"
+                                      href="/op-os-playbook/site2/pages/core/cloud/fax-solutions/"
                                       >Fax Solutions</a
                                     >
                                   </li>
@@ -96,7 +95,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3814">
                                     <a
                                       title="Konica Minolta MarketPlace"
-                                      href="/op-os-playbook/site/pages/core/cloud/konica-minolta-marketplace.html"
+                                      href="/op-os-playbook/site2/pages/core/cloud/konica-minolta-marketplace/"
                                       >Konica Minolta MarketPlace</a
                                     >
                                   </li>
@@ -105,7 +104,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3817">
                                     <a
                                       title="Print Management"
-                                      href="/op-os-playbook/site/pages/core/cloud/print-management.html"
+                                      href="/op-os-playbook/site2/pages/core/cloud/print-management/"
                                       >Print Management</a
                                     >
                                   </li>
@@ -114,7 +113,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3819">
                                     <a
                                       title="Security"
-                                      href="/op-os-playbook/site/pages/core/cloud/security.html"
+                                      href="/op-os-playbook/site2/pages/core/cloud/security/"
                                       >Security</a
                                     >
                                   </li>
@@ -138,7 +137,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3808">
                                     <a
                                       title="Device Management"
-                                      href="/op-os-playbook/site/pages/core/on-premises/device-management.html"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/device-management/"
                                       >Device Management</a
                                     >
                                   </li>
@@ -147,7 +146,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813">
                                     <a
                                       title="Intelligent Document Processing"
-                                      href="/op-os-playbook/site/pages/core/on-premises/intelligent-document-processing.html"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/intelligent-document-processing/"
                                       >Intelligent Document Processing</a
                                     >
                                   </li>
@@ -156,7 +155,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3811">
                                     <a
                                       title="Integrated Option Solutions (bizhub i-Option)"
-                                      href="/op-os-playbook/site/pages/core/on-premises/integrated-option-solutions.html"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/integrated-option-solutions/"
                                       >Integrated Option Solutions (bizhub
                                       i-Option)</a
                                     >
@@ -166,7 +165,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815">
                                     <a
                                       title="Mobile Applications"
-                                      href="/op-os-playbook/site/pages/core/on-premises/mobile-applications.html"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/mobile-applications/"
                                       >Mobile Applications</a
                                     >
                                   </li>
@@ -175,7 +174,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3816">
                                     <a
                                       title="PDF Editing"
-                                      href="/op-os-playbook/site/pages/core/on-premises/pdf-editing.html"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/pdf-editing/"
                                       >PDF Editing</a
                                     >
                                   </li>
@@ -184,7 +183,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3818">
                                     <a
                                       title="Print Management"
-                                      href="/op-os-playbook/site/pages/core/on-premises/print-management.html"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/print-management/"
                                       >Print Management</a
                                     >
                                   </li>
@@ -193,7 +192,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3820">
                                     <a
                                       title="Security"
-                                      href="/op-os-playbook/site/pages/core/on-premises/security.html"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/security/"
                                       >Security</a
                                     >
                                   </li>
@@ -239,7 +238,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3835">
                                     <a
                                       title="Device Management"
-                                      href="/op-os-playbook/site/pages/support/cloud/device-management.html"
+                                      href="/op-os-playbook/site2/pages/support/cloud/device-management/"
                                       >Device Management</a
                                     >
                                   </li>
@@ -248,7 +247,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3841">
                                     <a
                                       title="Print Management"
-                                      href="/op-os-playbook/site/pages/support/cloud/print-management.html"
+                                      href="/op-os-playbook/site2/pages/support/cloud/print-management/"
                                       >Print Management</a
                                     >
                                   </li>
@@ -257,7 +256,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4018">
                                     <a
                                       title="Visitor Management"
-                                      href="/op-os-playbook/site/pages/support/cloud/visitor-management.html"
+                                      href="/op-os-playbook/site2/pages/support/cloud/visitor-management/"
                                       >Visitor Management</a
                                     >
                                   </li>
@@ -281,7 +280,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3836">
                                     <a
                                       title="Device Management"
-                                      href="/op-os-playbook/site/pages/support/on-premises/device-management.html"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/device-management/"
                                       >Device Management</a
                                     >
                                   </li>
@@ -290,7 +289,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4037">
                                     <a
                                       title="Document Management"
-                                      href="/op-os-playbook/site/pages/support/on-premises/document-management.html"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/document-management/"
                                       >Document Management</a
                                     >
                                   </li>
@@ -299,7 +298,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3838">
                                     <a
                                       title="Fax Solutions"
-                                      href="/op-os-playbook/site/pages/support/on-premises/fax-solutions.html"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/fax-solutions/"
                                       >Fax Solutions</a
                                     >
                                   </li>
@@ -308,7 +307,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839">
                                     <a
                                       title="Intelligent Document Processing"
-                                      href="/op-os-playbook/site/pages/support/on-premises/intelligent-document-processing.html"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/intelligent-document-processing/"
                                       >Intelligent Document Processing</a
                                     >
                                   </li>
@@ -317,7 +316,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840">
                                     <a
                                       title="Pay for Print"
-                                      href="/op-os-playbook/site/pages/support/on-premises/pay-for-print.html"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/pay-for-print/"
                                       >Pay for Print</a
                                     >
                                   </li>
@@ -326,7 +325,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3842">
                                     <a
                                       title="Print Management"
-                                      href="/op-os-playbook/site/pages/support/on-premises/print-management.html"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/print-management/"
                                       >Print Management</a
                                     >
                                   </li>
@@ -335,7 +334,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3843">
                                     <a
                                       title="Visitor Management"
-                                      href="/op-os-playbook/site/pages/support/on-premises/visitor-management.html"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/visitor-management/"
                                       >Visitor Management</a
                                     >
                                   </li>
@@ -381,7 +380,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4943">
                         <a
                           title="Layered Security Training"
-                          href="/op-os-playbook/site/pages/data-document-security/layered-security-training.html"
+                          href="/op-os-playbook/site2/pages/data-document-security/layered-security-training/"
                           >Layered Security Training</a
                         >
                       </li>
@@ -410,7 +409,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                       <li
                         id="menu-item-4254"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4254">
-                        <a title="Finance" href="/op-os-playbook/site/pages/vertical/finance.html"
+                        <a title="Finance" href="/op-os-playbook/site2/pages/vertical/finance/"
                           >Finance</a
                         >
                       </li>
@@ -419,14 +418,14 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3804">
                         <a
                           title="Healthcare"
-                          href="/op-os-playbook/site/pages/vertical/healthcare.html"
+                          href="/op-os-playbook/site2/pages/vertical/healthcare/"
                           >Healthcare</a
                         >
                       </li>
                       <li
                         id="menu-item-3805"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3805">
-                        <a title="Legal" href="/op-os-playbook/site/pages/vertical/legal.html"
+                        <a title="Legal" href="/op-os-playbook/site2/pages/vertical/legal/"
                           >Legal</a
                         >
                       </li>
@@ -435,7 +434,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3806">
                         <a
                           title="Public Sector (Education/Government)"
-                          href="/op-os-playbook/site/pages/vertical/public-sector.html"
+                          href="/op-os-playbook/site2/pages/vertical/public-sector/"
                           >Public Sector (Education/Government)</a
                         >
                       </li>
@@ -466,7 +465,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4178">
                         <a
                           title="AccurioPro Solutions"
-                          href="/op-os-playbook/site/pages/graphic-communications/accuriopro-solutions.html"
+                          href="/op-os-playbook/site2/pages/graphic-communications/accuriopro-solutions/"
                           >AccurioPro Solutions</a
                         >
                       </li>
@@ -475,7 +474,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4179">
                         <a
                           title="e-Commerce"
-                          href="/op-os-playbook/site/pages/graphic-communications/e-commerce.html"
+                          href="/op-os-playbook/site2/pages/graphic-communications/e-commerce/"
                           >e-Commerce</a
                         >
                       </li>
@@ -484,7 +483,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4180">
                         <a
                           title="Management Information Systems (MIS) Solutions"
-                          href="/op-os-playbook/site/pages/graphic-communications/management-information-systems.html"
+                          href="/op-os-playbook/site2/pages/graphic-communications/management-information-systems/"
                           >Management Information Systems (MIS) Solutions</a
                         >
                       </li>
@@ -493,7 +492,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4181">
                         <a
                           title="Transactional Variable Data Printing (VDP)"
-                          href="/op-os-playbook/site/pages/graphic-communications/transactional-variable-data-printing.html"
+                          href="/op-os-playbook/site2/pages/graphic-communications/transactional-variable-data-printing/"
                           >Transactional Variable Data Printing (VDP)</a
                         >
                       </li>
@@ -502,7 +501,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4182">
                         <a
                           title="Variable Data Printing"
-                          href="/op-os-playbook/site/pages/graphic-communications/variable-data-printing.html"
+                          href="/op-os-playbook/site2/pages/graphic-communications/variable-data-printing/"
                           >Variable Data Printing</a
                         >
                       </li>
@@ -511,7 +510,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4183">
                         <a
                           title="Workflow Solutions"
-                          href="/op-os-playbook/site/pages/graphic-communications/workflow-solutions.html"
+                          href="/op-os-playbook/site2/pages/graphic-communications/workflow-solutions/"
                           >Workflow Solutions</a
                         >
                       </li>
@@ -526,7 +525,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4297 dropdown yamm-fw">
             <a
               title="SOLUTION ASSESSMENT QUESTIONS"
-              href="/op-os-playbook/site/pages/other/solution-assessment-questions.html"
+              href="/op-os-playbook/site2/pages/other/solution-assessment-questions/"
               >SOLUTION ASSESSMENT QUESTIONS</a
             >
           </li>
@@ -535,7 +534,7 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4298 dropdown yamm-fw">
             <a
               title="GLOSSARY OF TERMS"
-              href="/op-os-playbook/site/pages/other/glossary-of-terms.html"
+              href="/op-os-playbook/site2/pages/other/glossary-of-terms/"
               >GLOSSARY OF TERMS</a
             >
           </li>
@@ -543,8 +542,8 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
       </div>
     </div>
   </div>
-</div>7:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]
-11:Tc5c9,<section>
+</div>6:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]
+10:Tc5c9,<section>
       <div class="ligh-gray-bg">
         <div class="container-fluid">
           <div class="row">
@@ -1589,14 +1588,14 @@ e:I[68027,["/op-os-playbook/site2/_next/static/chunks/1el5-48au3iai.js","/op-os-
           </li>
         </ul>
       </section>
-    </div>8:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$11"}}]
-9:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<footer class=\"ligh-black-bg\" style=\"padding: 20px 0\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-xs-12\">\n        <div class=\"text-center\">\n          <p\n            id=\"copyright\"\n            style=\"\n              color: #ffffff;\n              font-size: 12px;\n              margin: 0;\n              max-width: 600px;\n              margin-left: auto;\n              margin-right: auto;\n            \">\n            ©2026 Konica Minolta, Inc. All rights reserved.\n          </p>\n        </div>\n      </div>\n    </div>\n  </div>\n</footer>"}}]
-a:["$","script","script-0",{"src":"/op-os-playbook/site2/_next/static/chunks/0nm6rom1cj7-s.js","async":true,"nonce":"$undefined"}]
-b:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
-15:[]
-c:"$W15"
-d:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L19"}]}]}],null]}]
-f:["$","link","0",{"rel":"stylesheet","href":"/op-os-playbook/site2/_next/static/chunks/2vnp73tnjxw2m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-14:null
-19:[["$","title","0",{"children":"MKM Solutions Site2 Pilot"}],["$","meta","1",{"name":"description","content":"Next.js static export pilot for the MKM Solutions microsite."}]]
+    </div>7:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]
+8:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<footer class=\"ligh-black-bg\" style=\"padding: 20px 0\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-xs-12\">\n        <div class=\"text-center\">\n          <p\n            id=\"copyright\"\n            style=\"\n              color: #ffffff;\n              font-size: 12px;\n              margin: 0;\n              max-width: 600px;\n              margin-left: auto;\n              margin-right: auto;\n            \">\n            ©2026 Konica Minolta, Inc. All rights reserved.\n          </p>\n        </div>\n      </div>\n    </div>\n  </div>\n</footer>"}}]
+9:["$","script","script-0",{"src":"/op-os-playbook/site2/_next/static/chunks/0nm6rom1cj7-s.js","async":true,"nonce":"$undefined"}]
+a:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+14:[]
+b:"$W14"
+c:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],null]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/op-os-playbook/site2/_next/static/chunks/2vnp73tnjxw2m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:null
+18:[["$","title","0",{"children":"MKM Solutions Site2 Pilot"}],["$","meta","1",{"name":"description","content":"Next.js static export pilot for the MKM Solutions microsite."}]]

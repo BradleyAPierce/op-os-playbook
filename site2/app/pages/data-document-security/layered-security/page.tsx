@@ -1,6 +1,6 @@
 import { LegacyPage } from "../../../../components/LegacyPage";
-import { layeredSecurity } from "../../../../data/legacy-pages";
+import { pagesDataDocumentSecurityLayeredSecurity } from "../../../../data/legacy-pages";
 
-export default function LayeredSecurityPage() {
-  return <LegacyPage bodyClass={layeredSecurity.bodyClass} html={layeredSecurity.html} />;
+export default function PagesDataDocumentSecurityLayeredSecurityPage() {
+  return <LegacyPage bodyClass={pagesDataDocumentSecurityLayeredSecurity.bodyClass} html={pagesDataDocumentSecurityLayeredSecurity.html} />;
 }

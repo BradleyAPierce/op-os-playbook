@@ -1,5 +1,4 @@
 import type { Metadata, Viewport } from "next";
-import Script from "next/script";
 import type { ReactNode } from "react";
 import "./site2.css";
 
@@ -40,10 +39,10 @@ export default function RootLayout({
       </head>
       <body>
         {children}
-        <Script src={`${assetBase}/assets/js/vendor/jquery.min.js`} strategy="beforeInteractive" />
-        <Script src={`${assetBase}/assets/js/vendor/bootstrap.min.js`} strategy="afterInteractive" />
-        <Script src={`${assetBase}/assets/js/vendor/plugin.js`} strategy="afterInteractive" />
-        <Script src={`${assetBase}/assets/js/vendor/vendor.js`} strategy="afterInteractive" />
+        <script src={`${assetBase}/assets/js/vendor/jquery.min.js`}></script>
+        <script src={`${assetBase}/assets/js/vendor/bootstrap.min.js`}></script>
+        <script src={`${assetBase}/assets/js/vendor/plugin.js`}></script>
+        <script src={`${assetBase}/assets/js/vendor/vendor.js`}></script>
       </body>
     </html>
   );

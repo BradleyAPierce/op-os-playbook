@@ -1,0 +1,910 @@
+1:"$Sreact.fragment"
+2:I[63955,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js","/op-os-playbook/site2/_next/static/chunks/0nm6rom1cj7-s.js"],"BodyClass"]
+9:I[97367,["/op-os-playbook/site2/_next/static/chunks/05-c3ty_6dwfk.js","/op-os-playbook/site2/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T689a,<div class="navbar yamm navbar-default">
+  <div class="container-fluid">
+    <div class="">
+      <a href="javascript:void(0);" id="toggle" class="navbar-toggle">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+    </div>
+    <div id="menu" class="navbar-collapse collapse header-menu p0">
+      <div class="menu-main-menu-container">
+        <ul id="menu-main-menu" class="nav navbar-nav">
+          <li
+            id="menu-item-152"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-152 dropdown yamm-fw">
+            <a
+              title="CORE SOLUTIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >CORE SOLUTIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4014"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4014">
+                        <a title="CLOUD" href="#">CLOUD</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3807"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3807">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site2/pages/core/cloud/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3809"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3809">
+                                    <a
+                                      title="Document Management"
+                                      href="/op-os-playbook/site2/pages/core/cloud/document-management/"
+                                      >Document Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3812"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3812">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="/op-os-playbook/site2/pages/core/cloud/intelligent-document-processing/"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3810"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3810">
+                                    <a
+                                      title="Fax Solutions"
+                                      href="/op-os-playbook/site2/pages/core/cloud/fax-solutions/"
+                                      >Fax Solutions</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3814"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3814">
+                                    <a
+                                      title="Konica Minolta MarketPlace"
+                                      href="/op-os-playbook/site2/pages/core/cloud/konica-minolta-marketplace/"
+                                      >Konica Minolta MarketPlace</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3817"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3817">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site2/pages/core/cloud/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3819"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3819">
+                                    <a
+                                      title="Security"
+                                      href="/op-os-playbook/site2/pages/core/cloud/security/"
+                                      >Security</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li
+                        id="menu-item-4015"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4015">
+                        <a title="ON-PREMISES" href="#">ON-PREMISES</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3808"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3808">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3813"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/intelligent-document-processing/"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3811"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3811">
+                                    <a
+                                      title="Integrated Option Solutions (bizhub i-Option)"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/integrated-option-solutions/"
+                                      >Integrated Option Solutions (bizhub
+                                      i-Option)</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3815"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815">
+                                    <a
+                                      title="Mobile Applications"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/mobile-applications/"
+                                      >Mobile Applications</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3816"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3816">
+                                    <a
+                                      title="PDF Editing"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/pdf-editing/"
+                                      >PDF Editing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3818"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3818">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3820"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3820">
+                                    <a
+                                      title="Security"
+                                      href="/op-os-playbook/site2/pages/core/on-premises/security/"
+                                      >Security</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-88"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-88 dropdown yamm-fw">
+            <a
+              title="SUPPORTED SOLUTIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >SUPPORTED SOLUTIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4016"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4016">
+                        <a title="CLOUD" href="#">CLOUD</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3835"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3835">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site2/pages/support/cloud/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3841"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3841">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site2/pages/support/cloud/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-4018"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4018">
+                                    <a
+                                      title="Visitor Management"
+                                      href="/op-os-playbook/site2/pages/support/cloud/visitor-management/"
+                                      >Visitor Management</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li
+                        id="menu-item-4017"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4017">
+                        <a title="ON-PREMISES" href="#">ON-PREMISES</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3836"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3836">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-4037"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4037">
+                                    <a
+                                      title="Document Management"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/document-management/"
+                                      >Document Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3838"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3838">
+                                    <a
+                                      title="Fax Solutions"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/fax-solutions/"
+                                      >Fax Solutions</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3839"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/intelligent-document-processing/"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3840"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840">
+                                    <a
+                                      title="Pay for Print"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/pay-for-print/"
+                                      >Pay for Print</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3842"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3842">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3843"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3843">
+                                    <a
+                                      title="Visitor Management"
+                                      href="/op-os-playbook/site2/pages/support/on-premises/visitor-management/"
+                                      >Visitor Management</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-4942"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4942 dropdown yamm-fw">
+            <a
+              title="DATA &amp; DOCUMENT SECURITY"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >DATA &amp; DOCUMENT SECURITY
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4944"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4944">
+                        <a
+                          title="Layered Security"
+                          href="/op-os-playbook/site2/pages/data-document-security/layered-security/"
+                          >Layered Security</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4943"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4943">
+                        <a
+                          title="Layered Security Training"
+                          href="/op-os-playbook/site2/pages/data-document-security/layered-security-training/"
+                          >Layered Security Training</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-3803"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3803 dropdown yamm-fw">
+            <a
+              title="VERTICAL"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >VERTICAL
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4254"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4254">
+                        <a title="Finance" href="/op-os-playbook/site2/pages/vertical/finance/"
+                          >Finance</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3804"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3804">
+                        <a
+                          title="Healthcare"
+                          href="/op-os-playbook/site2/pages/vertical/healthcare/"
+                          >Healthcare</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3805"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3805">
+                        <a title="Legal" href="/op-os-playbook/site2/pages/vertical/legal/"
+                          >Legal</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3806"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3806">
+                        <a
+                          title="Public Sector (Education/Government)"
+                          href="/op-os-playbook/site2/pages/vertical/public-sector/"
+                          >Public Sector (Education/Government)</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-155"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-155 dropdown yamm-fw">
+            <a
+              title="GRAPHIC COMMUNICATIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >GRAPHIC COMMUNICATIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4178"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4178">
+                        <a
+                          title="AccurioPro Solutions"
+                          href="/op-os-playbook/site2/pages/graphic-communications/accuriopro-solutions/"
+                          >AccurioPro Solutions</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4179"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4179">
+                        <a
+                          title="e-Commerce"
+                          href="/op-os-playbook/site2/pages/graphic-communications/e-commerce/"
+                          >e-Commerce</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4180"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4180">
+                        <a
+                          title="Management Information Systems (MIS) Solutions"
+                          href="/op-os-playbook/site2/pages/graphic-communications/management-information-systems/"
+                          >Management Information Systems (MIS) Solutions</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4181"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4181">
+                        <a
+                          title="Transactional Variable Data Printing (VDP)"
+                          href="/op-os-playbook/site2/pages/graphic-communications/transactional-variable-data-printing/"
+                          >Transactional Variable Data Printing (VDP)</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4182"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4182">
+                        <a
+                          title="Variable Data Printing"
+                          href="/op-os-playbook/site2/pages/graphic-communications/variable-data-printing/"
+                          >Variable Data Printing</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4183"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4183">
+                        <a
+                          title="Workflow Solutions"
+                          href="/op-os-playbook/site2/pages/graphic-communications/workflow-solutions/"
+                          >Workflow Solutions</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-4297"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4297 dropdown yamm-fw">
+            <a
+              title="SOLUTION ASSESSMENT QUESTIONS"
+              href="/op-os-playbook/site2/pages/other/solution-assessment-questions/"
+              >SOLUTION ASSESSMENT QUESTIONS</a
+            >
+          </li>
+          <li
+            id="menu-item-4298"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4298 dropdown yamm-fw">
+            <a
+              title="GLOSSARY OF TERMS"
+              href="/op-os-playbook/site2/pages/other/glossary-of-terms/"
+              >GLOSSARY OF TERMS</a
+            >
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"bg-light-blue"}],["$","div",null,{"className":"site2-pilot-banner","children":"Next.js static migration preview. Legacy visuals are preserved for parity."}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<header>\n  <nav class=\"navbar top-navbar\">\n    <div class=\"container-fluid\">\n      <div class=\"navbar-header\">\n        <a class=\"navbar-brand\" href=\"/op-os-playbook/site2/pages/index/\">\n          <img\n            src=\"/op-os-playbook/site2/assets/images/logos/logo.svg\"\n            alt=\"Konica Minolta\"\n            class=\"img-responsive\" />\n        </a>\n      </div>\n    </div>\n  </nav>\n</header>"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"V6CVpQhxVZTujqEqPcw-F"}
+8:T4f66,<!-- CONTENT HERE -->
+    <section class="section white-bg has-relative mt0 pt0">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="tearms">
+              <h2>Active Directory</h2>
+              <p>
+                Active Directory (AD) is a directory service created by
+                Microsoft for Windows domain networks. Active Directory serves
+                as a central location for network administration and security.
+                It is responsible for authenticating and authorizing all users
+                and computers within Windows domain type, assigning and
+                enforcing security policies within all computers in a network
+                and installing or updating network software on network
+                computers.
+              </p>
+              <h2>Additive Primary Colors</h2>
+              <p>
+                The primary colors of light from which all other colors can be
+                made – red, green and blue. Adding 100 percent of all three
+                produces white light while adding lesser intensities produces a
+                gamut of different colors. Combining 100 percent of two additive
+                primaries produces a subtractive primary: red + green = yellow,
+                red + blue = magenta, green + blue = cyan
+              </p>
+              <h2>AS/400</h2>
+              <p>
+                The IBM System i (formerly known as iSeries, AS/400 and
+                Application System/400) is a minicomputer platform produced by
+                IBM. It was officially introduced as the AS/400 in 1988. It was
+                then renamed to the eServer iSeries in 2000 as part of IBM's
+                e-Server branding initiative. In 2006, the platform has once
+                again been renamed to System i.
+              </p>
+              <h2>ASCII</h2>
+              <p>
+                American Standard Code for Information Interchange (ASCII),
+                generally pronounced "askee", is a character encoding based on
+                the English alphabet. ASCII codes represent text in computers,
+                communications equipment, and other devices that work with text.
+              </p>
+              <h2>Bates Numbering</h2>
+              <p>
+                Bates Numbering (aka Bates stamping) is used in the legal,
+                medical and business fields to place identifying numbers and/or
+                date/time-marks on images and documents as they are scanned or
+                processed (for example, during the discovery stage of
+                preparations for trial or identifying business receipts).
+              </p>
+              <h2>Bus and Tag</h2>
+              <p>
+                A common name for the parallel channel between IBM mainframes
+                and peripherals. One set of cables carries the data (the bus)
+                and another set is for control information (the tag).
+              </p>
+              <h2>BYOD (Bring Your Own Device)</h2>
+              <p>
+                An increasing trend allowing employees and other users to
+                utilize a personal device within a business to execute
+                enterprise applications and access data. Typically, it includes
+                smartphones and tablets, but may also be used for PCs.
+              </p>
+              <h2>Calibration</h2>
+              <p>
+                The act of adjusting a device to bring its behavior in
+                accordance with a known specification. For example, monitors are
+                calibrated to a specific color temperature, gamma, and
+                monochrome luminance. Imagesetters and plate setters are
+                calibrated to make sure that they deliver the requested dot
+                percentage accurately. Calibration is typically accomplished by
+                measuring the behavior of a device with an instrument such as a
+                colorimeter or densitometer, comparing the measured behavior
+                with the standard to which the device is being calibrated and
+                then adjusting the device so that it behaves in accordance with
+                that standard.
+              </p>
+              <h2>CMY</h2>
+              <p>
+                Cyan, magenta and yellow are the subtractive primary colors or a
+                color space that describes colors in terms of their cyan,
+                magenta, and yellow components.
+              </p>
+              <h2>Color Management</h2>
+              <p>
+                A set of software technologies that seeks to match color across
+                input, display and output devices by referencing the color
+                behavior to a known standard by means of device profiles. The
+                signals received by each device are adjusted in such a way that
+                the perceived color remains consistent.
+              </p>
+              <h2>CSV (Comma-Separated Values)</h2>
+              <p>
+                Also known as a comma-separated list or comma-separated
+                variables file format, this file type stores tabular data. The
+                format dates back to the early days of business computing. For
+                this reason, CSV files are common on all computer platforms.
+              </p>
+              <h2>Densitometer</h2>
+              <p>An instrument that measures optical density.</p>
+              <h2>DHCP (Dynamic Host Configuration Protocol)</h2>
+              <p>
+                A device can have a different IP address every time it connects
+                to the network. The computer or device requests an address from
+                a DHCP server as it is booting. The DHCP server acknowledges the
+                request and offers an address. After the address is accepted,
+                the DHCP server removes that address from its pool so it cannot
+                be given out again.
+              </p>
+              <h2>Document Management</h2>
+              <p>
+                A document management system (DMS) is a computer system (or set
+                of computer programs) used to track and store electronic
+                documents and/or images of paper documents. It is usually also
+                capable of keeping track of the different versions created by
+                different users (history tracking).
+              </p>
+              <h2>FTP (File Transfer Protocol)</h2>
+              <p>
+                Used to transfer data from one computer to another over the
+                Internet or through a network.
+              </p>
+              <h2>Fuzzy Search</h2>
+              <p>
+                Name for a category of techniques for finding strings that
+                approximately match some given pattern string. It may also be
+                known as approximate or inexact matching.
+              </p>
+              <h2>Gamut</h2>
+              <p>
+                The range of color a device can produce or the range of color a
+                color model can represent.
+              </p>
+              <h2>Gradation</h2>
+              <p>
+                The process of making the tonal range of a basic colors increase
+                in a linear fashion from lightest to darkest.
+              </p>
+              <h2>High Availability (HA)</h2>
+              <p>
+                Refers to a system component or solution that is continuously
+                operational.
+              </p>
+              <h2>
+                HIPAA (Health Insurance Portability and Accountability Act)
+              </h2>
+              <p>
+                Enacted by the U.S. Congress in 1996. According to the Centers
+                for Medicare and Medicaid Services (CMS) website, Title I of
+                HIPAA protects health insurance coverage for workers and their
+                families when they change or lose their jobs. Essentially HIPAA
+                ensures privacy standards across the health/insurance industry.
+              </p>
+              <h2>ICC Profile</h2>
+              <p>
+                A standard format developed by the ICC for a data file that
+                describes the color behavior of an input, display or output
+                device, or a color model, by referencing it to a
+                device-independent color model such as CIE XYZ or CIELAB. Used
+                in almost all current color-management systems.
+              </p>
+              <h2>Index Data / Metadata</h2>
+              <p>
+                Index data or Metadata are key bits of data pertaining to
+                documents in a document management system that are used to
+                identify the document for quick retrieval. The index data is
+                entered along with a document into a document system. The data
+                is generally stored into a high-performance database such as SQL
+                (structured query language) database that can retrieve data in
+                very short timeframes. Examples are Account Numbers, Invoice
+                Numbers, Purchase Order Numbers or Serial Numbers.
+              </p>
+              <h2>Imposition</h2>
+              <p>
+                Term used in the printing industry. Print operators will print
+                books using large sheets of paper which will be folded later.
+                This allows for faster printing, simplified binding, and lower
+                production costs. Imposition is the process of arranging pages
+                correctly prior to printing so that they fold in the correct
+                order. To someone unfamiliar with the imposition process, the
+                pages may seem to be arranged randomly; but after printing the
+                paper is folded, bound and trimmed. If correctly imposed, the
+                pages should all appear in the correct orientation and readable
+                sequence.
+              </p>
+              <h2>IPDS (Intelligent Printer Data Stream)</h2>
+              <p>
+                IBM's Systems Application Architecture host-to-printer data
+                stream for Advanced Function Presentation subsystems. It
+                provides an attachment-independent interface for controlling and
+                managing all-points-addressable (APA) printers that allows the
+                presentation of pages containing an architecturally unlimited
+                mixture of different data types, including text, image,
+                graphics, bar code, and object container. It is used by a
+                variety of IBM and OEM print servers that drive
+                all-points-addressable (APA) page printers. Generally, these
+                printers are at the medium, to high-end of the print speed and
+                volume spectrum.
+              </p>
+              <h2>LDAP</h2>
+              <p>
+                Lightweight Directory Access Protocol: A set of protocols for
+                accessing information directories such as an email address book
+                residing on an email server.
+              </p>
+              <h2>MDM (Mobile Device Management)</h2>
+              <p>
+                An industry term for security software that provides
+                distribution, policy, inventory, security and services
+                management for mobile devices deployed across an organization.
+                MDM is commonly related to enterprise use of mobile devices,
+                where it is important for businesses to both allow for effective
+                mobile device use, and protect sensitive data from unauthorized
+                access.
+              </p>
+              <h2>MIB (Management Information Base)</h2>
+              <p>
+                A database of objects that can be monitored by a network
+                management system. PageScope Web Connection is an example of
+                MIB.
+              </p>
+              <h2>MFP</h2>
+              <p>Multi-function printer.</p>
+              <h2>NIC (Network Interface Card)</h2>
+              <p>
+                A network card, network adapter, LAN Adapter or NIC (network
+                interface card) is a piece of computer hardware designed to
+                allow computers to communicate over a<br />
+                computer network.
+              </p>
+              <h2>OCR (Optical Character Recognition)</h2>
+              <p>
+                Usually abbreviated to OCR, is the mechanical or electronic
+                translation of images of typewritten or printed text (usually
+                captured by a scanner) into machine-editable text. When the OCR
+                process is invoked, the document image is converted into a
+                format that allows the user to edit text instead of retyping the
+                entire document.
+              </p>
+              <h2>PDF (Portable Document Format)</h2>
+              <p>
+                The file format created by Adobe Systems in 1993 for document
+                exchange. This file format provides an electronic image of text
+                and graphics that resembles the printed document. PDF files can
+                be viewed, printed and transmitted electronically.
+              </p>
+              <h2>Peer-to-Peer Network</h2>
+              <p>
+                A peer-to-peer LAN is an easy-to-configure, simple-to-implement
+                network model. Many homes and small businesses use a
+                peer-to-peer network. Workstations are connected together
+                through a hub or switch for resource sharing such as files,
+                folders or printers. Peer-to-peer networks do have limitations.
+                User account information must be managed at each workstation.
+                There is no centralized storage of information for user account
+                management. It's hard to locate files as they tend to be
+                distributed among various workstations, and there are
+                limitations to the number of concurrent connections to shared
+                resources. But, in many instances, a peer-to-peer LAN is
+                adequate and useful. No server required, which is sometimes a
+                big cost saving, and no IT "expert" is needed.
+              </p>
+              <h2>Primary Colors</h2>
+              <p>
+                The colors from which all other colors can be made. The primary
+                colors of light are red, green and blue. These are the additive
+                primaries used for transmissive or emissive color. The primary
+                colors of pigments are cyan, magenta and yellow and are used for
+                reflective color. It's possible to create all colors from
+                primary colors because the human eye contains three different
+                types of color-sensitive photoreceptors which are sensitive to
+                the individual primary colors.
+              </p>
+              <h2>Redaction</h2>
+              <p>
+                Edited, modified or revised document from which confidential or
+                sensitive information has been removed.
+              </p>
+              <h2>Resolution</h2>
+              <p>
+                Resolution describes image clarity. It indicates the number of
+                dots per inch. Raster graphics are resolution dependent. They
+                cannot scale to an arbitrary resolution without loss of apparent
+                quality. Modern computer monitors typically display about 72 to
+                130 pixels per inch (PPI) and some modern consumer printers can
+                resolve 2400 dots per inch (DPI) or more; determining the most
+                appropriate image resolution for a given printer-resolution can
+                pose difficulties since printed output may have a greater level
+                of detail than a viewer can discern on a monitor. Typically, a
+                resolution of 150 to 300 pixels per inch works well for 4-color
+                process (CMYK) printing.
+              </p>
+              <h2>RFP (Request for Proposal)</h2>
+              <p>
+                An invitation for suppliers, through a bidding process, to
+                submit a proposal on a specific commodity or service.
+              </p>
+              <h2>RFI (Request for Information)</h2>
+              <p>
+                A standard business process whose purpose is to collect written
+                information about the capabilities of various suppliers.
+                Normally it follows a format that can be used for comparative
+                purposes.
+              </p>
+              <h2>RIP (Raster Image Processor)</h2>
+              <p>
+                A component used in a printing system which produces a bitmap.
+                The bitmap is then sent to a printing device for output. The
+                input may be in a high-level page description language such as
+                PostScript, Portable Document Format, XPS or another bitmap of
+                higher or lower resolution than the output device. In the latter
+                case, the RIP applies either smoothing or interpolation
+                algorithms to the input bitmap to generate the output bitmap.
+              </p>
+              <h2>Saturation</h2>
+              <p>
+                The property of a color that makes it appear as strongly
+                colored. Black, white and gray have no saturation. A red tomato
+                has high saturation. Pastel colors have low saturation also
+                known as Chroma. This attribute of color is used in the HLS
+                (Hue, Lightness, and Saturation) and HSB (Hue, Saturation and
+                Brightness) color models.
+              </p>
+              <h2>SFP</h2>
+              <p>Single-function printer.</p>
+              <h2>Spectrophotometer</h2>
+              <p>
+                An instrument that measures the amount of light a color sample
+                reflects or transmits at each wavelength, producing spectral
+                data.
+              </p>
+              <h2>Subtractive Primaries</h2>
+              <p>
+                Cyan, magenta, and yellow. Used to create reflective color. Cyan
+                absorbs (subtracts) all red light, reflecting blue and green.
+                Magenta absorbs all green light, reflecting blue and red. Yellow
+                absorbs all blue light, reflecting red and green.
+              </p>
+              <h2>Thin Client</h2>
+              <p>
+                A thin client is a computer or a computer program which depends
+                heavily on some other computer (its server) to fulfill its
+                traditional computational roles (i.e., web browser).
+              </p>
+              <h2>TIFF (Tagged Image File Format)</h2>
+              <p>
+                One of the most widely supported file formats for storing
+                bit-mapped images on personal computers (both PCs and Macintosh
+                computers).
+              </p>
+              <h2>Twain</h2>
+              <p>
+                TWAIN is a standard software protocol and applications
+                programming interface (API) that regulates communication between
+                software applications and imaging devices such as scanners and
+                digital cameras.
+              </p>
+              <h2>VDP (Variable-Data Printing)</h2>
+              <p>
+                Also known as variable-information printing (VIP), VDP is a form
+                of on-demand printing in which elements such as text, graphics,
+                and images may be changed from one printed piece to the next
+                without stopping or slowing down the printing process, using
+                information from a database or external file.
+              </p>
+              <h2>XML (Extensible Markup Language)</h2>
+              <p>
+                A general-purpose markup language. lt is classified as an
+                extensible language because it allows its users to define their
+                own elements.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>4:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$8"}}]
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<footer class=\"ligh-black-bg\" style=\"padding: 20px 0\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-xs-12\">\n        <div class=\"text-center\">\n          <p\n            id=\"copyright\"\n            style=\"\n              color: #ffffff;\n              font-size: 12px;\n              margin: 0;\n              max-width: 600px;\n              margin-left: auto;\n              margin-right: auto;\n            \">\n            ©2026 Konica Minolta, Inc. All rights reserved.\n          </p>\n        </div>\n      </div>\n    </div>\n  </div>\n</footer>"}}]
+6:["$","script","script-0",{"src":"/op-os-playbook/site2/_next/static/chunks/0nm6rom1cj7-s.js","async":true}]
+7:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null
