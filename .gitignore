@@ -24,6 +24,7 @@ jspm_packages/
 bower_components/
 
 # Build / output
+.next/
 dist/
 build/
 out/
