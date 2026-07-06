@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
+import { LegacyScripts } from "../components/LegacyScripts";
 import "./site.css";
 
 const assetBase = process.env.GITHUB_PAGES === "true" ? "/op-os-playbook/site" : "";
@@ -39,10 +40,7 @@ export default function RootLayout({
       </head>
       <body>
         {children}
-        <script src={`${assetBase}/assets/js/vendor/jquery.min.js`}></script>
-        <script src={`${assetBase}/assets/js/vendor/bootstrap.min.js`}></script>
-        <script src={`${assetBase}/assets/js/vendor/plugin.js`}></script>
-        <script src={`${assetBase}/assets/js/vendor/vendor.js`}></script>
+        <LegacyScripts assetBase={assetBase} />
       </body>
     </html>
   );

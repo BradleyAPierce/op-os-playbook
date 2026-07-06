@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --port 3001",
+    "dev": "next dev",
     "build": "next build",
     "build:github": "GITHUB_PAGES=true next build && node scripts/sync-static-export.mjs",
     "extract:legacy": "node scripts/extract-legacy-pages.mjs",
