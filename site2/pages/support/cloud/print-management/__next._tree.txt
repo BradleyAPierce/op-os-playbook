@@ -1,9 +1,0 @@
-:HL["/op-os-playbook/site2/_next/static/chunks/2vnp73tnjxw2m.css","style"]
-:HL["/op-os-playbook/site2/assets/css/vendor/bootstrap.min.css","style"]
-:HL["/op-os-playbook/site2/assets/css/vendor/plugin.css","style"]
-:HL["/op-os-playbook/site2/assets/css/vendor/utilities.css","style"]
-:HL["/op-os-playbook/site2/assets/css/vendor/vendor.css","style"]
-:HL["/op-os-playbook/site2/assets/css/vendor/style.css","style"]
-:HL["/op-os-playbook/site2/assets/css/core/wordpress-extracted.css","style"]
-:HL["/op-os-playbook/site2/assets/css/core/banner-fix.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pages","param":null,"prefetchHints":0,"slots":{"children":{"name":"support","param":null,"prefetchHints":0,"slots":{"children":{"name":"cloud","param":null,"prefetchHints":0,"slots":{"children":{"name":"print-management","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"V6CVpQhxVZTujqEqPcw-F"}

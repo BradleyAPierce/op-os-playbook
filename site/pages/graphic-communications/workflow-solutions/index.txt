@@ -1,0 +1,816 @@
+1:"$Sreact.fragment"
+2:I[39756,["/op-os-playbook/site/_next/static/chunks/158myu8e_yme3.js"],"default"]
+3:I[37457,["/op-os-playbook/site/_next/static/chunks/158myu8e_yme3.js"],"default"]
+4:I[63955,["/op-os-playbook/site/_next/static/chunks/158myu8e_yme3.js","/op-os-playbook/site/_next/static/chunks/0nm6rom1cj7-s.js"],"BodyClass"]
+c:I[68027,["/op-os-playbook/site/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+:HL["/op-os-playbook/site/_next/static/chunks/1z_mbvpkjhpd5.css","style"]
+:HL["/op-os-playbook/site/assets/css/vendor/bootstrap.min.css","style"]
+:HL["/op-os-playbook/site/assets/css/vendor/plugin.css","style"]
+:HL["/op-os-playbook/site/assets/css/vendor/utilities.css","style"]
+:HL["/op-os-playbook/site/assets/css/vendor/vendor.css","style"]
+:HL["/op-os-playbook/site/assets/css/vendor/style.css","style"]
+:HL["/op-os-playbook/site/assets/css/core/wordpress-extracted.css","style"]
+:HL["/op-os-playbook/site/assets/css/core/banner-fix.css","style"]
+0:{"P":null,"c":["","pages","graphic-communications","workflow-solutions",""],"q":"","i":false,"f":[[["",{"children":["pages",{"children":["graphic-communications",{"children":["workflow-solutions",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/op-os-playbook/site/_next/static/chunks/1z_mbvpkjhpd5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/op-os-playbook/site/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[[["$","link","/assets/css/vendor/bootstrap.min.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/vendor/bootstrap.min.css"}],["$","link","/assets/css/vendor/plugin.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/vendor/plugin.css"}],["$","link","/assets/css/vendor/utilities.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/vendor/utilities.css"}],["$","link","/assets/css/vendor/vendor.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/vendor/vendor.css"}],["$","link","/assets/css/vendor/style.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/vendor/style.css"}],["$","link","/assets/css/core/wordpress-extracted.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/core/wordpress-extracted.css"}],["$","link","/assets/css/core/banner-fix.css",{"rel":"stylesheet","href":"/op-os-playbook/site/assets/css/core/banner-fix.css"}]],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/op-os-playbook/site/assets/images/logos/logo.svg"}]]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"src":"/op-os-playbook/site/assets/js/vendor/jquery.min.js"}],["$","script",null,{"src":"/op-os-playbook/site/assets/js/vendor/bootstrap.min.js"}],["$","script",null,{"src":"/op-os-playbook/site/assets/js/vendor/plugin.js"}],["$","script",null,{"src":"/op-os-playbook/site/assets/js/vendor/vendor.js"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","$L4",null,{"className":"bg-pink"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<header>\n  <nav class=\"navbar top-navbar\">\n    <div class=\"container-fluid\">\n      <div class=\"navbar-header\">\n        <a class=\"navbar-brand\" href=\"/op-os-playbook/site/pages/index/\">\n          <img\n            src=\"/op-os-playbook/site/assets/images/logos/logo.svg\"\n            alt=\"Konica Minolta\"\n            class=\"img-responsive\" />\n        </a>\n      </div>\n    </div>\n  </nav>\n</header>"}}],"$L5","$L6","$L7"],["$L8"],"$L9"]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_IDqqIraiEg4pNCN6LTUX"}
+10:I[97367,["/op-os-playbook/site/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:I[97367,["/op-os-playbook/site/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+16:I[97367,["/op-os-playbook/site/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+e:T6874,<div class="navbar yamm navbar-default">
+  <div class="container-fluid">
+    <div class="">
+      <a href="javascript:void(0);" id="toggle" class="navbar-toggle">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+    </div>
+    <div id="menu" class="navbar-collapse collapse header-menu p0">
+      <div class="menu-main-menu-container">
+        <ul id="menu-main-menu" class="nav navbar-nav">
+          <li
+            id="menu-item-152"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-152 dropdown yamm-fw">
+            <a
+              title="CORE SOLUTIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >CORE SOLUTIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4014"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4014">
+                        <a title="CLOUD" href="#">CLOUD</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3807"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3807">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site/pages/core/cloud/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3809"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3809">
+                                    <a
+                                      title="Document Management"
+                                      href="/op-os-playbook/site/pages/core/cloud/document-management/"
+                                      >Document Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3812"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3812">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="/op-os-playbook/site/pages/core/cloud/intelligent-document-processing/"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3810"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3810">
+                                    <a
+                                      title="Fax Solutions"
+                                      href="/op-os-playbook/site/pages/core/cloud/fax-solutions/"
+                                      >Fax Solutions</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3814"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3814">
+                                    <a
+                                      title="Konica Minolta MarketPlace"
+                                      href="/op-os-playbook/site/pages/core/cloud/konica-minolta-marketplace/"
+                                      >Konica Minolta MarketPlace</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3817"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3817">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site/pages/core/cloud/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3819"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3819">
+                                    <a
+                                      title="Security"
+                                      href="/op-os-playbook/site/pages/core/cloud/security/"
+                                      >Security</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li
+                        id="menu-item-4015"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4015">
+                        <a title="ON-PREMISES" href="#">ON-PREMISES</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3808"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3808">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site/pages/core/on-premises/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3813"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="/op-os-playbook/site/pages/core/on-premises/intelligent-document-processing/"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3811"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3811">
+                                    <a
+                                      title="Integrated Option Solutions (bizhub i-Option)"
+                                      href="/op-os-playbook/site/pages/core/on-premises/integrated-option-solutions/"
+                                      >Integrated Option Solutions (bizhub
+                                      i-Option)</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3815"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815">
+                                    <a
+                                      title="Mobile Applications"
+                                      href="/op-os-playbook/site/pages/core/on-premises/mobile-applications/"
+                                      >Mobile Applications</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3816"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3816">
+                                    <a
+                                      title="PDF Editing"
+                                      href="/op-os-playbook/site/pages/core/on-premises/pdf-editing/"
+                                      >PDF Editing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3818"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3818">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site/pages/core/on-premises/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3820"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3820">
+                                    <a
+                                      title="Security"
+                                      href="/op-os-playbook/site/pages/core/on-premises/security/"
+                                      >Security</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-88"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-88 dropdown yamm-fw">
+            <a
+              title="SUPPORTED SOLUTIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >SUPPORTED SOLUTIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4016"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4016">
+                        <a title="CLOUD" href="#">CLOUD</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3835"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3835">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site/pages/support/cloud/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3841"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3841">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site/pages/support/cloud/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-4018"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4018">
+                                    <a
+                                      title="Visitor Management"
+                                      href="/op-os-playbook/site/pages/support/cloud/visitor-management/"
+                                      >Visitor Management</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li
+                        id="menu-item-4017"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4017">
+                        <a title="ON-PREMISES" href="#">ON-PREMISES</a>
+                        <ul class="dropdown-menu subnav">
+                          <li>
+                            <ul>
+                              <li class="yamm-content container-fluid">
+                                <ul class="list">
+                                  <li
+                                    id="menu-item-3836"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3836">
+                                    <a
+                                      title="Device Management"
+                                      href="/op-os-playbook/site/pages/support/on-premises/device-management/"
+                                      >Device Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-4037"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4037">
+                                    <a
+                                      title="Document Management"
+                                      href="/op-os-playbook/site/pages/support/on-premises/document-management/"
+                                      >Document Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3838"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3838">
+                                    <a
+                                      title="Fax Solutions"
+                                      href="/op-os-playbook/site/pages/support/on-premises/fax-solutions/"
+                                      >Fax Solutions</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3839"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839">
+                                    <a
+                                      title="Intelligent Document Processing"
+                                      href="/op-os-playbook/site/pages/support/on-premises/intelligent-document-processing/"
+                                      >Intelligent Document Processing</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3840"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840">
+                                    <a
+                                      title="Pay for Print"
+                                      href="/op-os-playbook/site/pages/support/on-premises/pay-for-print/"
+                                      >Pay for Print</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3842"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3842">
+                                    <a
+                                      title="Print Management"
+                                      href="/op-os-playbook/site/pages/support/on-premises/print-management/"
+                                      >Print Management</a
+                                    >
+                                  </li>
+                                  <li
+                                    id="menu-item-3843"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3843">
+                                    <a
+                                      title="Visitor Management"
+                                      href="/op-os-playbook/site/pages/support/on-premises/visitor-management/"
+                                      >Visitor Management</a
+                                    >
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-4942"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4942 dropdown yamm-fw">
+            <a
+              title="DATA &amp; DOCUMENT SECURITY"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >DATA &amp; DOCUMENT SECURITY
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4944"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4944">
+                        <a
+                          title="Layered Security"
+                          href="/op-os-playbook/site/pages/data-document-security/layered-security/"
+                          >Layered Security</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4943"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4943">
+                        <a
+                          title="Layered Security Training"
+                          href="/op-os-playbook/site/pages/data-document-security/layered-security-training/"
+                          >Layered Security Training</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-3803"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3803 dropdown yamm-fw">
+            <a
+              title="VERTICAL"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >VERTICAL
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4254"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4254">
+                        <a title="Finance" href="/op-os-playbook/site/pages/vertical/finance/"
+                          >Finance</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3804"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3804">
+                        <a
+                          title="Healthcare"
+                          href="/op-os-playbook/site/pages/vertical/healthcare/"
+                          >Healthcare</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3805"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3805">
+                        <a title="Legal" href="/op-os-playbook/site/pages/vertical/legal/"
+                          >Legal</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-3806"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3806">
+                        <a
+                          title="Public Sector (Education/Government)"
+                          href="/op-os-playbook/site/pages/vertical/public-sector/"
+                          >Public Sector (Education/Government)</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-155"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-155 dropdown yamm-fw">
+            <a
+              title="GRAPHIC COMMUNICATIONS"
+              href="#"
+              data-toggle="dropdown"
+              class="dropdown-toggle"
+              aria-haspopup="true"
+              >GRAPHIC COMMUNICATIONS
+            </a>
+            <ul class="dropdown-menu subnav">
+              <li>
+                <ul>
+                  <li class="yamm-content container-fluid">
+                    <ul class="list">
+                      <li
+                        id="menu-item-4178"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4178">
+                        <a
+                          title="AccurioPro Solutions"
+                          href="/op-os-playbook/site/pages/graphic-communications/accuriopro-solutions/"
+                          >AccurioPro Solutions</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4179"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4179">
+                        <a
+                          title="e-Commerce"
+                          href="/op-os-playbook/site/pages/graphic-communications/e-commerce/"
+                          >e-Commerce</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4180"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4180">
+                        <a
+                          title="Management Information Systems (MIS) Solutions"
+                          href="/op-os-playbook/site/pages/graphic-communications/management-information-systems/"
+                          >Management Information Systems (MIS) Solutions</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4181"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4181">
+                        <a
+                          title="Transactional Variable Data Printing (VDP)"
+                          href="/op-os-playbook/site/pages/graphic-communications/transactional-variable-data-printing/"
+                          >Transactional Variable Data Printing (VDP)</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4182"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4182">
+                        <a
+                          title="Variable Data Printing"
+                          href="/op-os-playbook/site/pages/graphic-communications/variable-data-printing/"
+                          >Variable Data Printing</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-4183"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4183">
+                        <a
+                          title="Workflow Solutions"
+                          href="/op-os-playbook/site/pages/graphic-communications/workflow-solutions/"
+                          >Workflow Solutions</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li
+            id="menu-item-4297"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4297 dropdown yamm-fw">
+            <a
+              title="SOLUTION ASSESSMENT QUESTIONS"
+              href="/op-os-playbook/site/pages/other/solution-assessment-questions/"
+              >SOLUTION ASSESSMENT QUESTIONS</a
+            >
+          </li>
+          <li
+            id="menu-item-4298"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4298 dropdown yamm-fw">
+            <a
+              title="GLOSSARY OF TERMS"
+              href="/op-os-playbook/site/pages/other/glossary-of-terms/"
+              >GLOSSARY OF TERMS</a
+            >
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]
+f:T49d6,<div class="ligh-gray-bg">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-sm-12">
+            <ul class="breadcrumb">
+              <li><a class="bread-link bread-home" href="/op-os-playbook/site/pages/index/" title="Home">Home</a></li>
+              <li>Graphic Communications</li>
+              <li class="active">Workflow Solutions</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <section class="inherobanner">
+      <div class="heroslides owl-carousel owl-theme owl-loaded">
+        <div class="owl-stage-outer">
+          <div class="owl-stage">
+            <div class="owl-item active">
+              <div class="slides">
+                <img src="/op-os-playbook/site/assets/images/content/ECM01.jpg" class="bg-img" alt="">
+                <div class="caption hasrelative ">
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <h1>Workflow Solutions</h1>
+                      <hr class="small-hr">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="owl-nav disabled">
+          <div class="owl-prev">prev</div>
+          <div class="owl-next">next</div>
+        </div>
+        <div class="owl-dots disabled"></div>
+      </div>
+    </section>
+    <section class="white-bg has-relative section pb0">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="innercontent">
+              <p>Workflow automation is a strategic approach aimed at enhancing business efficiency by streamlining processes, increasing capacity, reducing costs, and ultimately boosting profitability. Konica Minolta specializes in providing customized workflow solutions that are meticulously tailored to fit the unique operational needs of each business. Through comprehensive assessments, Konica Minolta identifies areas for improvement and implements solutions designed to automate tasks, eliminate waste, reduce non-value-added steps, and minimize manual touchpoints.These workflow solutions are not limited by the size of the production management environment. Whether your operation is large or small, Konica Minolta’s production management solutions are fully scalable, ensuring they can adapt to your specific requirements. They offer both cloud-based and on-premise options, providing flexibility in how you manage the flow of information, assets, and work products within your production facility. This dual approach allows businesses to choose the most suitable platform based on their current infrastructure and future growth plans.</p>
+              <p>By leveraging existing investments, Konica Minolta’s solutions help businesses create efficient workflows that meet their immediate needs while being adaptable for future demands. This forward-thinking approach ensures that as your business evolves, your workflow automation solutions can scale and adjust accordingly, maintaining optimal performance and efficiency.In essence, Konica Minolta’s workflow automation solutions empower businesses to manage their production processes more effectively. This leads to better resource utilization, reduced operational costs, and enhanced overall performance. By focusing on value-added activities and minimizing unnecessary steps, businesses can achieve greater productivity and profitability.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div>
+      <section class="section scroll-section has-relative left-containt-section solid-border" id="accuriopro-dashboard">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-7">
+              <div class="innercontent">
+                <ul class="inline type-none">
+                  <li><img src="/op-os-playbook/site/assets/images/content/AccurioPro-Dashboard-Blackv2-scaled-e1758557815485.jpg" alt=""></li>
+                </ul>
+                <p>AccurioPro Dashboard provides detailed insights into the shop floor, enabling users to minimize downtime and reduce production-related costs. Simultaneously, the software enhances overall productivity by automatically analyzing the entire production process, collecting and evaluating device information. This intelligent approach adds valuable insights to print-related business decisions.As a fully featured, entry-level solution, AccurioPro Dashboard offers an attractive price/performance ratio. It leverages production data from various perspectives, including print jobs and print media, to optimize operations and drive efficiency.</p>
+              </div>
+            </div>
+            <div class="col-sm-5">
+              <div class="sidebar invert">
+                <h2 class="font-30">Benefits </h2>
+                <ul class="list  ">
+                  <li>Data-Driven Insights: Analyze the full production process to reduce downtime and cut operational costs</li>
+                  <li>Smart Device Monitoring: Automatically collect and evaluate performance data to optimize workflows and improve productivity  </li>
+                  <li>Affordable Intelligence: A fully featured entry-level solution with strong price/performance value for smarter print decisions. </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section scroll-section has-relative right-containt-section solid-border" id="accuriopro-flux">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-7 col-sm-push-5">
+              <div class="innercontent">
+                <ul class="inline type-none">
+                  <li><img src="/op-os-playbook/site/assets/images/content/AccurioPro-Flux.svg" alt=""></li>
+                </ul>
+                <p>AccurioPro Variable Data Essential is an entry-level solution designed to offer a highly attractive price/performance ratio, supporting optimized output. It provides essential features for variable data printing, making it ideal for businesses looking to enhance their marketing efforts with personalized content. The premium version offers faster processing speeds and additional advanced features. This version includes sophisticated tools for automating production work, such as barcoding and consecutive numbering, ensuring high efficiency and quality.</p>
+              </div>
+            </div>
+            <div class="col-sm-5 col-sm-pull-7">
+              <div class="sidebar invert">
+                <h2 class="font-30">Benefits </h2>
+                <ul class="list  ">
+                  <li>Streamline Print Operations: Centralized control and an intuitive interface simplify workflows, reduce manual tasks, and improve operational efficiency</li>
+                  <li>Scalable for Every Print Setting: Available in Essential and Premium versions to support commercial print shops, in-house print rooms, and institutional environments</li>
+                  <li> Boost Productivity &amp; Quality: Integrated online ordering and collaborative tools help lower costs, accelerate turnaround, and ensure consistent, high-quality output. </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section scroll-section has-relative left-containt-section solid-border" id="solimar">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-7">
+              <div class="innercontent">
+                <ul class="inline type-none">
+                  <li><img src="/op-os-playbook/site/assets/images/content/Solimar.png" alt=""></li>
+                </ul>
+                <p>Solimar offers a comprehensive suite of tools designed to optimize high-volume production print environments. Their solutions manage and track print jobs from onboarding to final delivery, ensuring efficient workflow management. These tools integrate seamlessly to provide a cohesive system for document re-engineering, process automation, and secure document delivery. They are highly scalable, supporting cloud and on-premise deployments to meet diverse business needs.&nbsp;</p>
+              </div>
+            </div>
+            <div class="col-sm-5">
+              <div class="sidebar invert">
+                <h2 class="font-30">Benefits</h2>
+                <ul class="list  part-two">
+                  <li>End-to-End Workflow Optimization: Manage complex production from onboarding to delivery with a unified, scalable platform</li>
+                  <li>Integrated Automation &amp; Security: Re-engineer documents, automate processes, and ensure secure delivery across cloud and on-premises environments</li>
+                  <li>Real-Time Control &amp; Tracking: Centralized oversight helps reduce errors, streamline operations, and maintain high output quality</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section scroll-section has-relative right-containt-section solid-border" id="racami">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-7 col-sm-push-5">
+              <div class="innercontent">
+                <ul class="inline type-none">
+                  <li><img src="/op-os-playbook/site/assets/images/content/racami.png" alt=""></li>
+                </ul>
+                <p>Racami offers advanced tools to streamline high-volume print production environments. Their solutions automate data processing and print management, enhancing efficiency and accuracy while reducing manual tasks. They are scalable and customizable, supporting both cloud and on-premise deployments. By integrating with existing systems, they ensure smooth workflow orchestration and real-time monitoring. These solutions help businesses optimize resource utilization, improve productivity, and maintain high standards of compliance and security.</p>
+              </div>
+            </div>
+            <div class="col-sm-5 col-sm-pull-7">
+              <div class="sidebar invert">
+                <h2 class="font-30">Benefits</h2>
+                <ul class="list  part-two">
+                  <li>High-Volume Automation: Streamline data processing and workflow orchestration for complex print production environments  </li>
+                  <li>Seamless System Integration: Customize and connect with existing platforms for real-time monitoring and secure document handling.   </li>
+                  <li>Cloud or On-Premises Flexibility: Reduce manual tasks, improve accuracy, and maintain compliance across every stage of production</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section scroll-section has-relative left-containt-section solid-border" id="rsa-ready-print-qdirect">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-7">
+              <div class="innercontent">
+                <ul class="inline type-none">
+                  <li><img src="/op-os-playbook/site/assets/images/content/RSA.svg" alt=""></li>
+                </ul>
+                <p>RSA offer extensive tools to optimize production print environments. Their solutions automate and manage print workflows, enhancing efficiency and reducing manual tasks. RSA’s systems are scalable and customizable, supporting both cloud and on-premise deployments to meet diverse business needs. By integrating seamlessly with existing systems, RSA ensures smooth workflow orchestration and real-time monitoring. These solutions help businesses improve productivity, reduce costs, and maintain high standards of compliance and security.</p>
+              </div>
+            </div>
+            <div class="col-sm-5">
+              <div class="sidebar invert">
+                <h2 class="font-30">Benefits</h2>
+                <ul class="list  ">
+                  <li>Streamlined Print Ordering: Simplify the entire process from submission to fulfillment—boosting productivity and reducing costs</li>
+                  <li>Workflow Integration: Seamlessly connect with existing systems to enable full automation and centralized control</li>
+                  <li> Optimized Task Management: Support multiple devices and ensure smooth operations with precise oversight across production stages</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section scroll-section has-relative right-containt-section solid-border" id="fiery-suite-impose-job-manager">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-7 col-sm-push-5">
+              <div class="innercontent">
+                <ul class="inline type-none">
+                  <li><img src="/op-os-playbook/site/assets/images/content/Picture3.png" alt=""></li>
+                </ul>
+                <div class="wp-block-fiery-product-info-tab-inner product-info-tab-inner__content active" data-tab-content="product-info-tabs-item-1">
+                  <p>Boost your production efficiency with the most intuitive PDF-based sheet imposition software on the market. Its tight integration with Fiery® Command WorkStation®, makeready software, and prepress tools streamlines print job submission. Fiery Impose enables easy booklet creation, provides several gang-ups, supports cutting and stacking, plus integrates with Fiery JobMaster and Compose. <span class="gs_tkn">Fiery&nbsp;</span><span class="gs_tkn">Impose</span><span class="gs_tkn">&nbsp;</span><span class="gs_tkn">is&nbsp;</span><span class="gs_tkn">a&nbsp;</span><span class="gs_tkn">user friendly software designed for digital file preparation in printing. It allows users to create custom templates,</span><span class="gs_tkn">&nbsp;</span><span class="gs_tkn">impose&nbsp;</span><span class="gs_tkn">jobs,&nbsp;</span><span class="gs_tkn">and&nbsp;</span><span class="gs_tkn">automate&nbsp;</span><span class="gs_tkn">makeready&nbsp;</span><span class="gs_tkn">tasks.</span></p>
+                  <p>Experience seamless adaptability in any print environment. Fiery Impose easily installs on both Mac and Windows clients, as well as locally on the Fiery server. You’ll find all your makeready tasks conveniently consolidated within a single, user-friendly interface. Enjoy a fully visual user experience complete with comprehensive job previews, and you can benefit from integrated Acrobat Pro and PitStop Edit for quick adjustments.</p>
+                </div>
+                <div class="wp-block-fiery-product-info-tab-inner product-info-tab-inner__content" data-tab-content="product-info-tabs-item-2">
+                  <h3 id="h-what-s-new" class="wp-block-heading has-vivid-red-color has-text-color"></h3>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-5 col-sm-pull-7">
+              <div class="sidebar invert">
+                <h2 class="font-30">Benefits</h2>
+                <ul class="list  ">
+                  <li>Export imposed PDF to customers to simplify proofing and approval process</li>
+                  <li>See imposition changes as you make them with the visual, interactive interface </li>
+                  <li>Speed production with imposition templates to automate common layouts</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section scroll-section has-relative left-containt-section solid-border" id="ultimate-impostrip">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-7">
+              <div class="innercontent">
+                <ul class="inline type-none">
+                  <li><img src="/op-os-playbook/site/assets/images/content/UT-Share-1200x624-1-e1758653923912.png" alt=""></li>
+                </ul>
+                <p>With the increasing demand for shorter runs and quicker turnaround times, Ultimate Impostrip® provides lights out, hands free, true reliable automation. From imposition, to true shape nesting, the generation of marks and the intelligence to dynamically place your print elements on the sheet optimally and automatically is our duty. Whether you are considering a digital print environment, a web-to-print business, an increase in profitability or if you simply want to do more with the same resources, automation is the answer. Connect imposition to your management or web-to-print system to create one integrated prepress workflow.</p>
+                <div class="desc">
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-5">
+              <div class="sidebar invert">
+                <h2 class="font-30">Benefits</h2>
+                <ul class="list  ">
+                  <li>Simplified XML connectivity with upstream systems </li>
+                  <li>Pass customer and job information automatically to Ultimate Impostrip® through XML job tickets 3 easy ways to send jobs to Ultimate Impostrip® </li>
+                  <li>Manual imposition, Hot Folders Automation &amp; XML job ticket</li>
+                  <li>Seamless integration with Enfocus Switch </li>
+                  <li>High usability ratings confirmed by users No programming skills required</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <section class="scrollMenu jump_nav_scroll_sidebar">
+      <div class="btn-top-sidebar">
+        <a href="#" class="sc"><i class="fa fa-angle-left"></i></a>
+      </div>
+      <ul class="list" id="nav-tabs-wrapper">
+        <li>
+          <a class="goto sc" data-toggle="tab" href="#accuriopro-dashboard">AccurioPro Dashboard </a>
+        </li>
+        <li>
+          <a class="goto sc" data-toggle="tab" href="#accuriopro-flux">AccurioPro Flux</a>
+        </li>
+        <li>
+          <a class="goto sc" data-toggle="tab" href="#solimar">Solimar</a>
+        </li>
+        <li>
+          <a class="goto sc" data-toggle="tab" href="#racami">Racami</a>
+        </li>
+        <li>
+          <a class="goto sc" data-toggle="tab" href="#rsa-ready-print-qdirect">RSA Ready Print QDirect </a>
+        </li>
+        <li>
+          <a class="goto sc" data-toggle="tab" href="#fiery-suite-impose-job-manager">Fiery Suite Impose/Job Manager </a>
+        </li>
+        <li>
+          <a class="goto sc" data-toggle="tab" href="#ultimate-impostrip">Ultimate Impostrip</a>
+        </li>
+      </ul>
+    </section>
+  </div>
+  <!-- === Page Id End === -->
+  <!-- === Footer Part Start ===	-->6:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]
+7:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<footer class=\"ligh-black-bg\" style=\"padding: 20px 0\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-xs-12\">\n        <div class=\"text-center\">\n          <p\n            id=\"copyright\"\n            style=\"\n              color: #ffffff;\n              font-size: 12px;\n              margin: 0;\n              max-width: 600px;\n              margin-left: auto;\n              margin-right: auto;\n            \">\n            ©2026 Konica Minolta, Inc. All rights reserved.\n          </p>\n        </div>\n      </div>\n    </div>\n  </div>\n</footer>"}}]
+8:["$","script","script-0",{"src":"/op-os-playbook/site/_next/static/chunks/0nm6rom1cj7-s.js","async":true,"nonce":"$undefined"}]
+9:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+13:[]
+a:"$W13"
+b:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L17"}]}]}],null]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/op-os-playbook/site/_next/static/chunks/1z_mbvpkjhpd5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:null
+17:[["$","title","0",{"children":"MKM Solutions"}],["$","meta","1",{"name":"description","content":"MKM Solutions microsite."}]]
