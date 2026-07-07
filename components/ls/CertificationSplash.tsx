@@ -25,7 +25,6 @@ export function CertificationSplash() {
         <div className="certification-card" aria-label="Certification overview">
           <div className="card-grid">
             <span className="card-kicker">Secure by layers of protection</span>
-            <span className="card-year">2026</span>
           </div>
           <img
             src="LayeredSecurity_Logo_Badge.png"
@@ -33,7 +32,6 @@ export function CertificationSplash() {
             className="shield-mark"
           />
           <div className="card-footer">
-            <span>Sales Activation</span>
             <strong>Certification Ready</strong>
           </div>
         </div>
