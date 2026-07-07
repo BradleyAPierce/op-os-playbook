@@ -6,7 +6,8 @@
     "dev:site": "npm run dev",
     "dev:ls": "npm run dev",
     "build": "next build",
-    "build:github": "GITHUB_PAGES=true next build && node scripts/sync-static-export.mjs",
+    "build:github": "GITHUB_PAGES=true next build && node scripts/sync-static-export.mjs && node scripts/prettify-static-export.mjs",
+    "prettify:export": "node scripts/prettify-static-export.mjs",
     "extract:legacy": "node scripts/extract-legacy-pages.mjs"
   },
   "dependencies": {

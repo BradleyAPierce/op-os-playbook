@@ -28,10 +28,9 @@ export function CertificationSplash() {
             <span className="card-year">2026</span>
           </div>
           <img
-            src="layered-security-mark.svg"
-            alt=""
+            src="LayeredSecurity_Logo_Badge.png"
+            alt="Certified Layered Security Specialist badge"
             className="shield-mark"
-            aria-hidden="true"
           />
           <div className="card-footer">
             <span>Preparedness</span>

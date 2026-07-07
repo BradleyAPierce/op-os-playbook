@@ -242,8 +242,11 @@ h1 {
 }
 
 .shield-mark {
-  width: min(78%, 300px);
-  margin: 32px auto;
+  display: block;
+  width: min(72%, 240px);
+  height: auto;
+  margin: 24px auto;
+  object-fit: contain;
   filter: drop-shadow(0 24px 36px rgba(0, 0, 0, 0.28));
 }
 

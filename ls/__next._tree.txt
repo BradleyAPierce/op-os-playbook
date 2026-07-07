@@ -1,3 +1,3 @@
-:HL["/op-os-playbook/_next/static/chunks/2aspe8jolppem.css","style"]
-:HL["layered-security-mark.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"ls","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"NZd-Ob1FU4c_JroF62reP"}
+:HL["/op-os-playbook/_next/static/chunks/41-skyq00-7q1.css","style"]
+:HL["LayeredSecurity_Logo_Badge.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"ls","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"KWOINiDRhAiXkt2qSKzf3"}
