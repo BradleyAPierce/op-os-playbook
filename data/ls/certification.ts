@@ -142,7 +142,7 @@ export const certificationContent: CertificationContent = {
     eyebrow: "Why This Certification Is Different",
     title: "This is not just training. It is proof you can apply layered security.",
     summary:
-      "The Certified Layered Security Specialist program connects learning, SSE collaboration, customer discovery, and real business opportunity. To earn the designation, participants do more than complete coursework — they demonstrate the ability to turn layered security knowledge into customer value.",
+      "The Certified Layered Security Specialist program connects learning, SSE collaboration, customer discovery, and real business opportunity. To earn the designation, participants do more than complete coursework &#45; they demonstrate the ability to turn layered security knowledge into customer value.",
     cards: [
       {
         title: "Learn the Framework",
