@@ -160,9 +160,9 @@ export const certificationContent: CertificationContent = {
   },
   coursePath: {
     eyebrow: "Course Path",
-    title: "A practical path from concept to certification readiness.",
+    title: "Build understanding around the layers of secure customer workflows.",
     summary:
-      "Course cards can be rendered as a guided sequence that introduces the security model, applies it to customer scenarios, and prepares learners for certification.",
+      "The course path focuses on what learners need to understand: the security model, the customer discovery lens, and the value story behind layered protection.",
     courses: [
       {
         title: "Layered Security Foundations",
@@ -186,15 +186,15 @@ export const certificationContent: CertificationContent = {
   },
   customerProof: {
     eyebrow: "Field Proof",
-    title: "A field story will show the certification model in action.",
+    title: "Use the certification model to make security conversations easier to lead.",
     story:
-      "Placeholder field story: replace with an approved customer scenario that shows how layered security discovery helped identify risk, align stakeholders, and move a recommendation forward.",
+      "In the field, layered security gives teams a practical way to connect customer concerns to concrete workflow risks. The certification path helps turn a broad security conversation into a clearer discussion about devices, documents, users, data, and the controls that protect them.",
     proofPoints: [
       "Customer challenge and risk context",
       "Layered controls or workflow gaps identified",
       "Outcome, recommendation, or measurable business value"
     ],
-    attribution: "Final customer proof attribution pending"
+    attribution: "Temporary field-story copy for certification preview"
   },
   steps: [
     {
@@ -215,9 +215,9 @@ export const certificationContent: CertificationContent = {
   ],
   process: {
     eyebrow: "Certification Process",
-    title: "A simple process keeps certification clear and repeatable.",
+    title: "Complete certification through a clear sequence of actions.",
     summary:
-      "The process section can render the learner journey from orientation through assessment, completion, and customer-ready application.",
+      "The process explains how learners move through certification completion, from enrollment and coursework to validation and field application.",
     steps: [
       {
         title: "Enroll",

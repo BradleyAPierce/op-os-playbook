@@ -257,7 +257,7 @@ h1 {
   font-weight: 800;
   line-height: 1.25;
 }
-.path-section {
+.content-section {
   width: min(1180px, 100% - 40px);
   margin: 0 auto;
   padding-bottom: 100px;
@@ -272,37 +272,147 @@ h1 {
 .section-heading .eyebrow {
   margin-top: 7px;
 }
+.section-summary {
+  max-width: 680px;
+  color: var(--color-text-muted);
+  margin: 20px 0 0;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
 h2 {
   letter-spacing: 0;
   margin-bottom: 0;
   font-size: clamp(2rem, 4vw, 4.6rem);
   line-height: 1;
 }
-.step-list {
+.card-list,
+.course-grid,
+.process-grid {
   grid-template-columns: repeat(3, 1fr);
   gap: 16px;
   display: grid;
 }
-.step-card {
+.info-card,
+.course-card,
+.process-card {
   border: 1px solid var(--color-border);
   background: #ffffff9e;
   padding: 26px;
 }
-.step-card span {
+.info-card h3,
+.audience-card h3,
+.course-card h3,
+.process-card h3 {
+  margin-bottom: 12px;
+  font-size: 1.45rem;
+}
+.info-card p,
+.audience-card p,
+.course-card p,
+.process-card p {
+  color: var(--color-text-muted);
+  margin-bottom: 0;
+  line-height: 1.55;
+}
+.audience-section {
+  padding-top: 8px;
+}
+.audience-grid {
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+  grid-template-columns: repeat(3, 1fr);
+  display: grid;
+}
+.audience-card {
+  border-right: 1px solid var(--color-border);
+  min-height: 210px;
+  padding: 26px;
+}
+.audience-card:last-child {
+  border-right: 0;
+}
+.course-card,
+.process-card {
+  align-content: start;
+  display: grid;
+}
+.course-card span,
+.process-card span {
   color: var(--color-teal);
   margin-bottom: 42px;
   font-size: 0.85rem;
   font-weight: 900;
   display: inline-block;
 }
-.step-card h3 {
-  margin-bottom: 12px;
-  font-size: 1.45rem;
+.course-card strong {
+  color: var(--color-signal-dark);
+  margin-top: 24px;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  display: block;
 }
-.step-card p {
-  color: var(--color-text-muted);
+.proof-story {
+  background:
+    linear-gradient(180deg, #101820e6, #101820f5),
+    linear-gradient(135deg, var(--color-teal), var(--color-signal));
+  color: var(--color-text-inverse);
+  border: 1px solid #ffffff80;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
+  gap: clamp(28px, 5vw, 72px);
+  padding: clamp(28px, 5vw, 56px);
+  display: grid;
+}
+.proof-story .eyebrow {
+  color: var(--color-gold);
+}
+.story-copy {
+  color: #f7f5efd1;
+  max-width: 680px;
+  margin: 24px 0 18px;
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+.story-attribution {
+  color: #f7f5efad;
+  text-transform: uppercase;
   margin-bottom: 0;
-  line-height: 1.55;
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+.proof-list {
+  align-content: center;
+  gap: 14px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+}
+.proof-list li {
+  color: #f7f5efdb;
+  background: #f7f5ef14;
+  border: 1px solid #f7f5ef2e;
+  padding: 18px;
+  font-weight: 800;
+  line-height: 1.45;
+}
+.process-grid {
+  grid-template-columns: repeat(4, 1fr);
+}
+.final-cta {
+  border-top: 1px solid var(--color-border);
+  width: min(1180px, 100% - 40px);
+  margin: 0 auto 100px;
+  padding-top: 42px;
+}
+.final-cta h2 {
+  max-width: 900px;
+}
+.final-cta-summary {
+  max-width: 680px;
+  color: var(--color-text-muted);
+  margin: 24px 0 28px;
+  font-size: 1.08rem;
+  line-height: 1.6;
 }
 @media (max-width: 860px) {
   .site-header {
@@ -320,7 +430,11 @@ h2 {
     min-height: 380px;
   }
   .proof-band,
-  .step-list,
+  .audience-grid,
+  .card-list,
+  .course-grid,
+  .process-grid,
+  .proof-story,
   .section-heading {
     grid-template-columns: 1fr;
   }
@@ -332,12 +446,21 @@ h2 {
   .proof-point:last-child {
     border-bottom: 0;
   }
+  .audience-card {
+    border-right: 0;
+    border-bottom: 1px solid var(--color-border);
+    min-height: auto;
+  }
+  .audience-card:last-child {
+    border-bottom: 0;
+  }
 }
 @media (max-width: 520px) {
   .site-header,
   .hero,
   .proof-band,
-  .path-section {
+  .content-section,
+  .final-cta {
     width: min(100% - 28px, 1180px);
   }
   h1 {

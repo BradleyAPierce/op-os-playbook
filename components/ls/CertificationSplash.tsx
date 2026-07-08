@@ -163,7 +163,7 @@ export function CertificationSplash() {
       <section className="final-cta" aria-labelledby="final-cta-title">
         <p className="eyebrow">{finalCTA.eyebrow}</p>
         <h2 id="final-cta-title">{finalCTA.title}</h2>
-        <p>{finalCTA.summary}</p>
+        <p className="final-cta-summary">{finalCTA.summary}</p>
         <div className="hero-actions" aria-label="Final certification actions">
           <CTAButton href="#path">{finalCTA.primaryAction}</CTAButton>
           <CTAButton href="#process" variant="secondary">
