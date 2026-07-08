@@ -1,7 +1,11 @@
 import { certificationContent } from "@/data/ls/certification";
 import { CTAButton } from "./CTAButton";
+import { CoursePath } from "./CoursePath";
 import { SiteHeader } from "./SiteHeader";
 import { StatusPill } from "./StatusPill";
+
+const kmAcademyLogoUrl =
+  "https://raw.githubusercontent.com/BradleyAPierce/op-os-images/2f90237d6b0cfda8d9edb533b6b19241404ca991/KMA-blk.svg";
 
 export function CertificationSplash() {
   const {
@@ -38,8 +42,8 @@ export function CertificationSplash() {
             <span className="card-kicker">Secure by layers of protection</span>
           </div>
           <img
-            src="LayeredSecurity_Logo_Badge.png"
-            alt="Certified Layered Security Specialist badge"
+            src={kmAcademyLogoUrl}
+            alt="KM Academy"
             className="shield-mark"
           />
           <div className="card-footer">
@@ -105,16 +109,7 @@ export function CertificationSplash() {
             <p className="section-summary">{coursePath.summary}</p>
           </div>
         </div>
-        <div className="course-grid">
-          {coursePath.courses.map((course, index) => (
-            <article className="course-card" key={course.title}>
-              <span>{String(index + 1).padStart(2, "0")}</span>
-              <h3>{course.title}</h3>
-              <p>{course.description}</p>
-              <strong>{course.outcome}</strong>
-            </article>
-          ))}
-        </div>
+        <CoursePath courses={coursePath.courses} />
       </section>
 
       <section

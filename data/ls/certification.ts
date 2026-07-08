@@ -34,9 +34,13 @@ export type AudienceCard = {
 };
 
 export type CourseCard = {
+  id: string;
   title: string;
+  summary: string;
+  estimatedTime: string;
   description: string;
-  outcome: string;
+  href: string;
+  buttonLabel: string;
 };
 
 export type CustomerProof = {
@@ -165,22 +169,136 @@ export const certificationContent: CertificationContent = {
       "The course path focuses on what learners need to understand: the security model, the customer discovery lens, and the value story behind layered protection.",
     courses: [
       {
-        title: "Layered Security Foundations",
+        id: "course-01",
+        title: "Layered Security Certification Introduction and Program Overview",
+        summary:
+          "Introduces the Layered Security certification process, sales approach, expectations, tracking requirements, and customer conversation model.",
+        estimatedTime: "Self-paced course",
         description:
-          "Introduce the layered security model across devices, documents, users, workflows, and data.",
-        outcome: "Learners can explain the core layers and why each matters."
+          "Layered Security Certification: Introduction and Program Overview introduce the Layered Security Certification process and the repeatable sales approach that supports customer engagement, layered security conversations, and measurable business activity. This course provides an overview of the Layered Security Model, certification expectations, Salesforce campaign tracking requirements, Success Blueprint participation, and the role layered security plays in supporting stronger customer conversations and business opportunities.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dLSC%5fIAPO%26componentTypeID%3dONLINE%26revisionDate%3d1779380340000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
       },
       {
-        title: "Customer Readiness Assessment",
+        id: "course-02",
+        title: "Layered Security: Introducing the Model",
+        summary:
+          "Explains how to use the Layered Security Model to discuss data and document security risks with customers.",
+        estimatedTime: "Self-paced course",
         description:
-          "Practice identifying risk signals, control gaps, and discovery questions for customer environments.",
-        outcome: "Learners can evaluate readiness using a repeatable framework."
+          "The Layered Security Model is a way to engage clients about data and document security, and position beneficial outcomes for client organizations. This course will enable you to describe the risks to data and documents in the client's MFPs, and explain how Konica Minolta mitigates those risks. You will be prepared to ask your client effective questions about the security outcomes they need in order to protect their MFPs, documents, and data.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dLS%5fITM%26componentTypeID%3dONLINE%26revisionDate%3d1737649920000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
       },
       {
-        title: "Positioning and Certification Review",
+        id: "course-03",
+        title: "bizhub Security at the MFP",
+        summary:
+          "Prepares learners to lead with bizhub SECURE and explain how MFP security supports compliance and data protection.",
+        estimatedTime: "Self-paced course",
         description:
-          "Connect the security framework to customer value, solution recommendations, and certification preparation.",
-        outcome: "Learners are prepared to complete the certification checkpoint."
+          "Grow your sales and cultivate customer loyalty by leading with our bizhub SECURE service during your client conversations. Chris Bilello, VP of Business Solutions Development, explains the importance and value of bizhub SECURE as a key component of the Konica Minolta Layered Security model. This course will help you: 1. Raise client awareness about the threats to data that pass through MFPs 2. Speak confidently to clients about the importance of securing MFPs to safeguard sensitive information 3. Describe how bizhub SECURE helps clients achieve regulatory compliance.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dBIZHUB%5fBSMFP%26componentTypeID%3dONLINE%26revisionDate%3d1733411880000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
+      },
+      {
+        id: "course-04",
+        title: "MFP Protection Team",
+        summary:
+          "Covers the security outcomes provided by bizhub SECURE, bizhub SECURE Notifier, and Bitdefender.",
+        estimatedTime: "Self-paced course",
+        description:
+          "This course will enable you to describe the security outcomes provided by bizhub SECURE, bizhub SECURE Notifier, and Bitdefender. Clients are increasingly concerned about security of data and documents at the MFP. Konica Minolta's Layered Security model can assure clients that their important data is protected.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dMFPPT%5fBSBSNB%26componentTypeID%3dONLINE%26revisionDate%3d1739894820000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
+      },
+      {
+        id: "course-05",
+        title: "User Authentication and Access Control",
+        summary:
+          "Helps learners position user authentication and access control capabilities in customer conversations.",
+        estimatedTime: "Self-paced course",
+        description:
+          "Learn to position Konica Minolta's User Authentication and Access Control capabilities. Prepare yourself to explain these security capabilities when you meet with clients. By completing this module, you will be able to confidently describe how your clients benefit from user authentication and access control.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dUA%5fACCESSCONTROL%26componentTypeID%3dONLINE%26revisionDate%3d1748550300000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
+      },
+      {
+        id: "course-06",
+        title: "Document Security",
+        summary:
+          "Explains document security outcomes including queue cleanup, encryption, audit reporting, and watermarking.",
+        estimatedTime: "Self-paced course",
+        description:
+          "This course will prepare you to explain essential outcomes that strengthen data security for your clients: 1. Deletion of inactive files in print queues 2. Encryption of print job data during transmission over a network 3. Auditing and reporting on all document activity for compliance 4. Watermarking of sensitive documents to deter unauthorized use By completing this course, you will be ready to communicate the value of Konica Minolta's document security capabilities.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dDS%26componentTypeID%3dONLINE%26revisionDate%3d1750710780000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
+      },
+      {
+        id: "course-07",
+        title: "BreachAlert",
+        summary:
+          "Shows how BreachAlert helps detect potential MFP document and data breaches and protect customer information.",
+        estimatedTime: "Self-paced course",
+        description:
+          "Document and Data breaches at the MFP present serious risks for an organization's reputation, finances, and overall security posture. This course helps sales personnel communicate how BreachAlert can detect potential breaches at the MFP and mitigate negative impacts of such breaches. You will be able to confidently describe how BreachAlert and Konica Minolta MFPs can detect potential breaches, notify the organization, and protect valuable information. This will enhance your success and help you build trust with your clients.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dBREACH%5fIDADB%26componentTypeID%3dONLINE%26revisionDate%3d1730903100000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
+      },
+      {
+        id: "course-08",
+        title: "Centralized Security Management",
+        summary:
+          "Prepares learners to explain monitoring, visibility, and automatic remediation across an MFP fleet.",
+        estimatedTime: "Self-paced course",
+        description:
+          "This course prepares you to explain the 3 main outcomes of Centralized Security Management: 1.Monitoring and management of MFP security policies 2. Visibility to the security status of the entire fleet of MFPs 3. Automatic remediation to correct any compromised security settings discovered by monitoring. By completing this course, you will be able to communicate the value that your clients can derive from Centralized Security Management. You will be able to describe the key capabilities of the Shield Guard solution for security management of an entire fleet of MFPs.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dCSMWSG%26componentTypeID%3dONLINE%26revisionDate%3d1750771140000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
+      },
+      {
+        id: "course-09",
+        title: "Secure Workflow",
+        summary:
+          "Equips learners to uncover security gaps, identify workflow risks, and connect secure workflows to business outcomes.",
+        estimatedTime: "Self-paced course",
+        description:
+          "This course equips you to lead confident, high-impact security conversations by helping you quickly uncover security gaps, identify workflow risks, and connect secure workflow capabilities to the business outcomes customers value most. By completing this course, you will learn how to position Konica Minolta's solutions as trusted, strategic components of a stronger security posture. You'll learn to: 1. Spot security gaps quickly during discovery 2. Identify workflow risks that matter to decision-makers 3. Translate secure workflow capabilities into clear business value 4. Position Konica Minolta solutions strategically in security discussions 5. Build trust by guiding customers toward smarter, more secure workflows.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dLSSW%26componentTypeID%3dONLINE%26revisionDate%3d1769009580000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
+      },
+      {
+        id: "course-10",
+        title: "Success Case Study Story for Healthcare",
+        summary:
+          "Shows how to use a real healthcare layered-security win to strengthen customer conversations and support multi-solution sales.",
+        estimatedTime: "Self-paced course",
+        description:
+          "This course shows you how to use a real healthcare layered-security win from Services & Solutions Executive Nate Kinsey to strengthen your own customer conversations. You'll learn how to quickly identify security risks common in healthcare and position Konica Minolta's layered security solutions as essential for protecting patient data and meeting compliance requirements. The course also teaches you how to turn success stories into powerful sales tools that build trust and accelerate deals. By the end, you'll have a concise, repeatable way to use proven wins to drive more multi-solution sales.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dLSSB%5fHI%26componentTypeID%3dONLINE%26revisionDate%3d1769008440000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
+      },
+      {
+        id: "course-11",
+        title: "Success Case Study for Non-Profit",
+        summary:
+          "Uses a nonprofit layered-security success story to strengthen discovery, risk positioning, and trust-building conversations.",
+        estimatedTime: "Self-paced course",
+        description:
+          "Join Camyrn Gossert, Services & Solutions Executive and Ken Sessoms, Named Account Executive who joined forces for this strategy big win. This course shows how to use a real nonprofit layered-security success story to strengthen customer conversations. You'll learn how to quickly identify security risks common in nonprofit organizations and position layered security solutions as essential for protecting people, facilities, and sensitive data. The course also demonstrates how to turn proven nonprofit wins into credible stories that build trust and advance multi-solution security conversations. By the end, you'll have a clear, repeatable way to use real-world success to drive impactful security outcomes.",
+        href: "https://performancemanager4.successfactors.com/sf/learning?destUrl=https%3a%2f%2fkmbs%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dLSSB%5fNONPROFIT%26componentTypeID%3dONLINE%26revisionDate%3d1778524200000%26targetStudentSysGUID%3d%26actingAs%3d%26fromSF%3dY&company=KonicaMinolta",
+        buttonLabel: "TAKE COURSE NOW"
+      },
+      {
+        id: "course-12",
+        title: "Success Case Study for Government",
+        summary:
+          "Uses a government layered-security success story to support security, compliance, and multi-solution customer discussions.",
+        estimatedTime: "Self-paced course",
+        description:
+          "Join Don Davidson, Solutions & Services Executive to understand how to use a real government layered-security success story to strengthen customer conversations. You'll learn how to quickly identify security risks common across government agencies and position layered security solutions as essential for protecting facilities, systems, and sensitive information while supporting regulatory and compliance requirements. The course also demonstrates how to turn proven government wins into credible success stories that build trust and advance multi-solution security conversations. By the end, you'll have a clear, repeatable approach for using real-world results to drive impactful security discussions.",
+        href: "#",
+        buttonLabel: "TAKE COURSE NOW"
       }
     ]
   },

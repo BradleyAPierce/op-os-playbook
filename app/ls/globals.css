@@ -189,6 +189,8 @@ h1 {
   min-height: 48px;
   border: 1px solid var(--color-primary);
   padding: 13px 18px;
+  cursor: pointer;
+  font: inherit;
   font-weight: 800;
   text-decoration: none;
 }
@@ -389,6 +391,10 @@ h2 {
   align-content: start;
 }
 
+.course-card {
+  grid-template-rows: auto auto 1fr auto;
+}
+
 .course-card span,
 .process-card span {
   display: inline-block;
@@ -398,12 +404,70 @@ h2 {
   font-weight: 900;
 }
 
-.course-card strong {
-  display: block;
-  margin-top: 24px;
-  color: var(--color-signal-dark);
-  font-size: 0.95rem;
-  line-height: 1.45;
+.course-card-button {
+  width: max-content;
+  margin-top: 28px;
+}
+
+.course-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: rgba(16, 24, 32, 0.58);
+}
+
+.course-modal {
+  position: relative;
+  width: min(680px, 100%);
+  max-height: min(720px, calc(100vh - 48px));
+  overflow: auto;
+  border: 1px solid var(--color-border);
+  padding: clamp(28px, 5vw, 44px);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-elevated);
+}
+
+.course-modal-close {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  border: 1px solid transparent;
+  padding: 8px 10px;
+  background: transparent;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.course-modal-close:hover,
+.course-modal-close:focus-visible {
+  border-color: var(--color-border);
+  color: var(--color-text);
+  outline: none;
+}
+
+.course-modal h2 {
+  margin: 28px 0 22px;
+  font-size: clamp(2rem, 4vw, 3.7rem);
+}
+
+.course-modal p {
+  margin-bottom: 0;
+  color: var(--color-text-muted);
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+
+.course-modal-footer {
+  margin-top: 34px;
+  border-top: 1px solid var(--color-border);
+  padding-top: 22px;
 }
 
 .proof-story {
@@ -547,7 +611,20 @@ h2 {
     width: 100%;
   }
 
+  .course-card-button {
+    width: 100%;
+  }
+
   .certification-card {
     padding: 20px;
+  }
+
+  .course-modal-backdrop {
+    padding: 14px;
+  }
+
+  .course-modal-close {
+    position: static;
+    margin-bottom: 20px;
   }
 }
