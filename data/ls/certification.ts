@@ -87,19 +87,19 @@ export type CertificationContent = {
 };
 
 export const certificationContent: CertificationContent = {
-  eyebrow: "Layered Security Initiative",
+  eyebrow: "Certified Layered Security Specialist",
   title: "Certification Built to:",
   summary:
-    "A focused launch experience for teams preparing to understand, position, and validate layered security practices across the customer environment.",
+    "Build the confidence to lead meaningful security conversations, identify customer risk, and position layered security solutions that protect devices, documents, users, and data.",
   primaryAction: "Start Certification",
   secondaryAction: "View Readiness Path",
   status: "Certification splash page",
   hero: {
-    eyebrow: "Layered Security Initiative",
+    eyebrow: "Certified Layered Security Specialist",
     title: "Certification Built to:",
     rotatingPhrases: ["DRIVE SALES", "START CONVERSATIONS", "BUILD PARTNERSHIPS"],
     summary:
-      "A focused launch experience for teams preparing to understand, position, and validate layered security practices across the customer environment.",
+      "Build the confidence to lead meaningful security conversations, identify customer risk, and position layered security solutions that protect devices, documents, users, and data.",
     primaryAction: "Start Certification",
     secondaryAction: "View Readiness Path",
     status: "Certification splash page"
