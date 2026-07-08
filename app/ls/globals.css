@@ -181,6 +181,10 @@ h1 {
   .hero-rotator-item[aria-hidden="true"] {
     display: none;
   }
+
+  .course-carousel-viewport {
+    scroll-behavior: auto;
+  }
 }
 
 .summary {
@@ -392,6 +396,83 @@ h2 {
   gap: 16px;
 }
 
+.course-carousel {
+  display: grid;
+  gap: 16px;
+}
+
+.course-carousel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.course-carousel-progress {
+  margin-bottom: 0;
+  color: var(--color-teal);
+  font-size: 0.85rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.course-carousel-controls {
+  display: flex;
+  gap: 10px;
+}
+
+.course-carousel-control {
+  min-height: 42px;
+  border: 1px solid rgba(15, 109, 106, 0.34);
+  padding: 10px 14px;
+  background: rgba(15, 109, 106, 0.08);
+  color: var(--color-teal);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.course-carousel-control:hover,
+.course-carousel-control:focus-visible {
+  border-color: var(--color-teal);
+  background: var(--color-teal);
+  color: var(--color-text-inverse);
+  outline: none;
+}
+
+.course-carousel-control:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.course-carousel-control:disabled:hover {
+  border-color: rgba(15, 109, 106, 0.34);
+  background: rgba(15, 109, 106, 0.08);
+  color: var(--color-teal);
+}
+
+.course-carousel-viewport {
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(15, 109, 106, 0.42) transparent;
+}
+
+.course-carousel-track {
+  display: flex;
+  gap: 16px;
+  align-items: stretch;
+  padding-bottom: 6px;
+}
+
+.course-carousel .course-card {
+  flex: 0 0 calc((100% - 32px) / 3);
+  scroll-snap-align: start;
+}
+
 .course-card,
 .process-card {
   border: 1px solid var(--color-border);
@@ -572,6 +653,10 @@ h2 {
   .section-heading {
     grid-template-columns: 1fr;
   }
+
+  .course-carousel .course-card {
+    flex-basis: calc((100% - 16px) / 2);
+  }
 }
 
 @media (max-width: 520px) {
@@ -591,6 +676,23 @@ h2 {
   .hero-actions,
   .cta-button {
     width: 100%;
+  }
+
+  .course-carousel-header {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .course-carousel-controls {
+    width: 100%;
+  }
+
+  .course-carousel-control {
+    flex: 1;
+  }
+
+  .course-carousel .course-card {
+    flex-basis: 100%;
   }
 
   .course-card-button {
