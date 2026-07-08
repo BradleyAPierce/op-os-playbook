@@ -363,6 +363,17 @@ h1 {
   content: "";
 }
 
+.content-section:has(.course-modal-backdrop) {
+  z-index: 30;
+}
+
+.section-heading,
+.course-carousel,
+.process-carousel {
+  position: relative;
+  z-index: 1;
+}
+
 @supports not (backdrop-filter: blur(1px)) {
   .content-section::before {
     background:
@@ -630,7 +641,7 @@ h2 {
 .course-modal-backdrop {
   position: fixed;
   inset: 0;
-  z-index: 20;
+  z-index: 100;
   display: grid;
   place-items: center;
   padding: 24px;
