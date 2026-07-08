@@ -105,7 +105,7 @@ h1 {
 }
 
 .hero-rotator {
-  --hero-rotator-font-size: clamp(2rem, 5.6vw, 5.2rem);
+  --hero-rotator-font-size: clamp(2rem, 4.8vw, 4.4rem);
   --hero-rotator-line-height: 1.04;
   --hero-rotator-lines: 2;
   height: calc(
