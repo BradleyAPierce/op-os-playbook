@@ -7,7 +7,8 @@ export function CertificationSplash() {
   const {
     coursePath,
     hero,
-    process
+    process,
+    valueProposition
   } = certificationContent;
 
   return (
@@ -55,6 +56,30 @@ export function CertificationSplash() {
               {hero.primaryAction}
             </CTAButton>
           </div>
+        </div>
+      </section>
+
+      <section
+        className="intro-section"
+        aria-labelledby="value-proposition-title"
+      >
+        <div className="intro-heading">
+          <p className="eyebrow">{valueProposition.eyebrow}</p>
+          <h2 id="value-proposition-title">{valueProposition.title}</h2>
+          <p className="section-summary">{valueProposition.summary}</p>
+        </div>
+        <div className="value-card-grid">
+          {valueProposition.cards.map((card) => (
+            <article
+              className={
+                card.featured ? "value-card value-card--featured" : "value-card"
+              }
+              key={card.title}
+            >
+              <h3>{card.title}</h3>
+              <p>{card.summary}</p>
+            </article>
+          ))}
         </div>
       </section>
 

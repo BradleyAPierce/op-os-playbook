@@ -36,6 +36,12 @@ export type FeaturePoint = {
   description: string;
 };
 
+export type ValuePropositionCard = {
+  title: string;
+  summary: string;
+  featured?: boolean;
+};
+
 export type AudienceCard = {
   role: string;
   description: string;
@@ -76,6 +82,9 @@ export type CertificationContent = {
   status: string;
   hero: HeroContent;
   proofPoints: ProofPoint[];
+  valueProposition: SectionIntro & {
+    cards: ValuePropositionCard[];
+  };
   whyCertification: SectionIntro & {
     points: FeaturePoint[];
   };
@@ -129,6 +138,35 @@ export const certificationContent: CertificationContent = {
       label: "Customer-ready certification outcome"
     }
   ],
+  valueProposition: {
+    eyebrow: "Why This Certification Is Different",
+    title: "This is not just training. It is proof you can apply layered security.",
+    summary:
+      "The Certified Layered Security Specialist program connects learning, SSE collaboration, customer discovery, and real business opportunity. To earn the designation, participants do more than complete coursework — they demonstrate the ability to turn layered security knowledge into customer value.",
+    cards: [
+      {
+        title: "Learn the Framework",
+        summary:
+          "Build practical knowledge of layered security, document security, device protection, secure workflow, and customer risk."
+      },
+      {
+        title: "Collaborate With Your SSE",
+        summary:
+          "Engage your Solutions and Services Executive early to shape the opportunity, align the right solution, and strengthen the customer conversation."
+      },
+      {
+        title: "Create a $5,000 Opportunity",
+        summary:
+          "Certification requires a qualifying Layered Security opportunity valued at $5,000 or more, proving you can apply the model in a real sales environment.",
+        featured: true
+      },
+      {
+        title: "Earn the Designation",
+        summary:
+          "Complete the requirements and earn recognition as a Certified Layered Security Specialist, including certification assets and internal visibility."
+      }
+    ]
+  },
   whyCertification: {
     eyebrow: "Why It Matters",
     title: "Security conversations need a clear, repeatable framework.",
