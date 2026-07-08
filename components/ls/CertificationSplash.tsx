@@ -1,24 +1,18 @@
 import { certificationContent } from "@/data/ls/certification";
 import { CTAButton } from "./CTAButton";
 import { CoursePath } from "./CoursePath";
-import { SiteHeader } from "./SiteHeader";
-import { StatusPill } from "./StatusPill";
 
 export function CertificationSplash() {
   const {
     coursePath,
     hero,
-    process,
-    proofPoints
+    process
   } = certificationContent;
 
   return (
     <main id="top" className="page-shell">
-      <SiteHeader />
-
       <section className="hero" aria-labelledby="certification-title">
         <div className="hero-copy">
-          <StatusPill>{hero.status}</StatusPill>
           <p className="eyebrow">{hero.eyebrow}</p>
           <h1 id="certification-title">{hero.title}</h1>
           <p className="summary">{hero.summary}</p>
@@ -43,15 +37,6 @@ export function CertificationSplash() {
             <strong>Certification Ready</strong>
           </div>
         </div>
-      </section>
-
-      <section id="readiness" className="proof-band" aria-label="Readiness areas">
-        {proofPoints.map((point) => (
-          <article className="proof-point" key={point.label}>
-            <span>{point.value}</span>
-            <p>{point.label}</p>
-          </article>
-        ))}
       </section>
 
       <section id="path" className="content-section" aria-labelledby="path-title">
