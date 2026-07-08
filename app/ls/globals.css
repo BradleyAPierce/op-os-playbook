@@ -182,7 +182,8 @@ h1 {
     display: none;
   }
 
-  .course-carousel-viewport {
+  .course-carousel-viewport,
+  .process-carousel-viewport {
     scroll-behavior: auto;
   }
 }
@@ -396,37 +397,53 @@ h2 {
   gap: 16px;
 }
 
-.course-carousel {
+.course-carousel,
+.process-carousel {
+  --carousel-accent: var(--color-teal);
+  --carousel-accent-strong: var(--color-teal);
+  --carousel-accent-soft: rgba(15, 109, 106, 0.08);
+  --carousel-accent-border: rgba(15, 109, 106, 0.34);
   display: grid;
   gap: 16px;
 }
 
-.course-carousel-header {
+.process-carousel {
+  --carousel-accent: var(--color-gold);
+  --carousel-accent-strong: #8a6517;
+  --carousel-accent-soft: rgba(207, 168, 84, 0.14);
+  --carousel-accent-border: rgba(207, 168, 84, 0.5);
+}
+
+.course-carousel-header,
+.process-carousel-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 16px;
 }
 
-.course-carousel-progress {
+.course-carousel-progress,
+.process-carousel-progress {
   margin-bottom: 0;
-  color: var(--color-teal);
+  color: var(--carousel-accent-strong);
   font-size: 0.85rem;
   font-weight: 900;
   text-transform: uppercase;
 }
 
-.course-carousel-controls {
+.course-carousel-controls,
+.process-carousel-controls {
   display: flex;
   gap: 10px;
 }
 
-.course-carousel-control {
+.course-carousel-control,
+.process-carousel-control {
   min-height: 42px;
-  border: 1px solid rgba(15, 109, 106, 0.34);
+  border: 1px solid var(--carousel-accent-border);
   padding: 10px 14px;
-  background: rgba(15, 109, 106, 0.08);
-  color: var(--color-teal);
+  background: var(--carousel-accent-soft);
+  color: var(--carousel-accent-strong);
   cursor: pointer;
   font: inherit;
   font-size: 0.85rem;
@@ -435,33 +452,44 @@ h2 {
 }
 
 .course-carousel-control:hover,
-.course-carousel-control:focus-visible {
-  border-color: var(--color-teal);
-  background: var(--color-teal);
+.course-carousel-control:focus-visible,
+.process-carousel-control:hover,
+.process-carousel-control:focus-visible {
+  border-color: var(--carousel-accent);
+  background: var(--carousel-accent);
   color: var(--color-text-inverse);
   outline: none;
 }
 
-.course-carousel-control:disabled {
+.process-carousel-control:hover,
+.process-carousel-control:focus-visible {
+  color: var(--color-primary);
+}
+
+.course-carousel-control:disabled,
+.process-carousel-control:disabled {
   cursor: not-allowed;
   opacity: 0.45;
 }
 
-.course-carousel-control:disabled:hover {
-  border-color: rgba(15, 109, 106, 0.34);
-  background: rgba(15, 109, 106, 0.08);
-  color: var(--color-teal);
+.course-carousel-control:disabled:hover,
+.process-carousel-control:disabled:hover {
+  border-color: var(--carousel-accent-border);
+  background: var(--carousel-accent-soft);
+  color: var(--carousel-accent-strong);
 }
 
-.course-carousel-viewport {
+.course-carousel-viewport,
+.process-carousel-viewport {
   overflow-x: auto;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
   scrollbar-width: thin;
-  scrollbar-color: rgba(15, 109, 106, 0.42) transparent;
+  scrollbar-color: var(--carousel-accent-border) transparent;
 }
 
-.course-carousel-track {
+.course-carousel-track,
+.process-carousel-track {
   display: flex;
   gap: 16px;
   align-items: stretch;
@@ -469,6 +497,11 @@ h2 {
 }
 
 .course-carousel .course-card {
+  flex: 0 0 calc((100% - 32px) / 3);
+  scroll-snap-align: start;
+}
+
+.process-carousel .process-card {
   flex: 0 0 calc((100% - 32px) / 3);
   scroll-snap-align: start;
 }
@@ -504,6 +537,10 @@ h2 {
   grid-template-rows: auto auto 1fr auto;
 }
 
+.process-card {
+  grid-template-rows: auto auto 1fr auto;
+}
+
 .course-card span,
 .process-card span {
   display: inline-block;
@@ -516,6 +553,22 @@ h2 {
 .course-card-button {
   width: max-content;
   margin-top: 28px;
+}
+
+.process-card-button {
+  width: max-content;
+  margin-top: 28px;
+  border-color: var(--color-gold);
+  background: var(--color-gold);
+  color: var(--color-primary);
+}
+
+.process-card-button:hover,
+.process-card-button:focus-visible {
+  border-color: var(--color-primary);
+  background: var(--color-primary);
+  color: var(--color-text-inverse);
+  outline: none;
 }
 
 .section--path .course-card {
@@ -557,6 +610,7 @@ h2 {
 .course-modal {
   --modal-accent: var(--color-teal);
   --modal-accent-soft: rgba(15, 109, 106, 0.1);
+  --modal-accent-border: rgba(15, 109, 106, 0.18);
   position: relative;
   width: min(680px, 100%);
   max-height: min(720px, calc(100vh - 48px));
@@ -572,6 +626,18 @@ h2 {
   border-color: rgba(15, 109, 106, 0.24);
   background: var(--modal-accent-soft);
   color: var(--modal-accent);
+}
+
+.process-modal--process {
+  --modal-accent: var(--color-gold);
+  --modal-accent-soft: rgba(207, 168, 84, 0.16);
+  --modal-accent-border: rgba(207, 168, 84, 0.28);
+}
+
+.process-modal--process .status-pill {
+  border-color: var(--modal-accent-border);
+  background: var(--modal-accent-soft);
+  color: #8a6517;
 }
 
 .course-modal-close {
@@ -610,7 +676,7 @@ h2 {
 
 .course-modal-footer {
   margin-top: 34px;
-  border-top: 1px solid rgba(15, 109, 106, 0.18);
+  border-top: 1px solid var(--modal-accent-border);
   padding-top: 22px;
 }
 
@@ -622,6 +688,20 @@ h2 {
 
 .course-modal .cta-button--primary:hover,
 .course-modal .cta-button--primary:focus-visible {
+  border-color: var(--color-primary);
+  background: var(--color-primary);
+  color: var(--color-text-inverse);
+  outline: none;
+}
+
+.process-modal--process .cta-button--primary {
+  border-color: var(--color-gold);
+  background: var(--color-gold);
+  color: var(--color-primary);
+}
+
+.process-modal--process .cta-button--primary:hover,
+.process-modal--process .cta-button--primary:focus-visible {
   border-color: var(--color-primary);
   background: var(--color-primary);
   color: var(--color-text-inverse);
@@ -657,6 +737,10 @@ h2 {
   .course-carousel .course-card {
     flex-basis: calc((100% - 16px) / 2);
   }
+
+  .process-carousel .process-card {
+    flex-basis: calc((100% - 16px) / 2);
+  }
 }
 
 @media (max-width: 520px) {
@@ -678,16 +762,19 @@ h2 {
     width: 100%;
   }
 
-  .course-carousel-header {
+  .course-carousel-header,
+  .process-carousel-header {
     align-items: stretch;
     flex-direction: column;
   }
 
-  .course-carousel-controls {
+  .course-carousel-controls,
+  .process-carousel-controls {
     width: 100%;
   }
 
-  .course-carousel-control {
+  .course-carousel-control,
+  .process-carousel-control {
     flex: 1;
   }
 
@@ -695,7 +782,12 @@ h2 {
     flex-basis: 100%;
   }
 
-  .course-card-button {
+  .process-carousel .process-card {
+    flex-basis: 100%;
+  }
+
+  .course-card-button,
+  .process-card-button {
     width: 100%;
   }
 

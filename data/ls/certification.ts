@@ -1,6 +1,12 @@
 export type CertificationStep = {
+  id: string;
   title: string;
+  summary: string;
+  pillLabel: string;
   description: string;
+  href: string;
+  buttonLabel: string;
+  modalButtonLabel: string;
 };
 
 export type HeroContent = {
@@ -323,19 +329,37 @@ export const certificationContent: CertificationContent = {
   },
   steps: [
     {
+      id: "step-orient",
       title: "Orient",
+      summary: "Frame the layered security story around the certification model.",
+      pillLabel: "Certification Step",
       description:
-        "Frame the layered security story around device, document, user, and data protection."
+        "Frame the layered security story around device, document, user, and data protection.",
+      href: "#",
+      buttonLabel: "View Step",
+      modalButtonLabel: "TAKE ACTION NOW"
     },
     {
+      id: "step-assess",
       title: "Assess",
+      summary: "Identify gaps, required controls, and readiness markers.",
+      pillLabel: "Certification Step",
       description:
-        "Identify gaps, required controls, and the readiness markers needed before certification."
+        "Identify gaps, required controls, and the readiness markers needed before certification.",
+      href: "#",
+      buttonLabel: "View Step",
+      modalButtonLabel: "TAKE ACTION NOW"
     },
     {
+      id: "step-certify",
       title: "Certify",
+      summary: "Complete the certification path with a clear customer value narrative.",
+      pillLabel: "Certification Step",
       description:
-        "Complete the certification path with a clear understanding of the customer value narrative."
+        "Complete the certification path with a clear understanding of the customer value narrative.",
+      href: "#",
+      buttonLabel: "View Step",
+      modalButtonLabel: "TAKE ACTION NOW"
     }
   ],
   process: {
@@ -345,24 +369,48 @@ export const certificationContent: CertificationContent = {
       "Follow the steps to enroll, complete the coursework, validate readiness, and apply the certification in customer conversations.",
     steps: [
       {
+        id: "process-enroll",
         title: "Enroll",
+        summary: "Start the certification experience and review expected outcomes.",
+        pillLabel: "Certification Step",
         description:
-          "Start the certification experience and review the expected learning outcomes."
+          "Start the certification experience and review the expected learning outcomes.",
+        href: "#",
+        buttonLabel: "View Step",
+        modalButtonLabel: "TAKE ACTION NOW"
       },
       {
+        id: "process-coursework",
         title: "Complete coursework",
+        summary: "Move through the course path and apply the layered security framework.",
+        pillLabel: "Certification Step",
         description:
-          "Move through the course path and apply the layered security framework to practical scenarios."
+          "Move through the course path and apply the layered security framework to practical scenarios.",
+        href: "#",
+        buttonLabel: "View Step",
+        modalButtonLabel: "TAKE ACTION NOW"
       },
       {
+        id: "process-validate",
         title: "Validate readiness",
+        summary: "Confirm the ability to position the framework with confidence.",
+        pillLabel: "Certification Step",
         description:
-          "Complete the certification checkpoint and confirm the ability to position the framework."
+          "Complete the certification checkpoint and confirm the ability to position the framework.",
+        href: "#",
+        buttonLabel: "View Step",
+        modalButtonLabel: "TAKE ACTION NOW"
       },
       {
+        id: "process-apply",
         title: "Apply in the field",
+        summary: "Use the framework in discovery, recommendations, and follow-through.",
+        pillLabel: "Certification Step",
         description:
-          "Use the certification framework to support customer discovery, recommendations, and follow-through."
+          "Use the certification framework to support customer discovery, recommendations, and follow-through.",
+        href: "#",
+        buttonLabel: "View Step",
+        modalButtonLabel: "TAKE ACTION NOW"
       }
     ]
   },
