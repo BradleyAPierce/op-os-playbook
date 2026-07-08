@@ -339,17 +339,44 @@ h1 {
   --section-accent: var(--color-signal);
   --section-accent-strong: var(--color-signal-dark);
   --section-accent-soft: rgba(191, 74, 56, 0.1);
+  --section-frost: rgba(255, 255, 255, 0.52);
+  --section-frost-edge: rgba(191, 74, 56, 0.16);
   --section-card-gradient: var(--color-signal);
   --section-card-border: rgba(191, 74, 56, 0.44);
+  position: relative;
+  isolation: isolate;
   width: min(1180px, calc(100% - 40px));
   margin: 0 auto;
-  padding-bottom: 100px;
+  padding: 48px clamp(18px, 3vw, 34px) 108px;
+}
+
+.content-section::before {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border: 1px solid var(--section-frost-edge);
+  background:
+    linear-gradient(135deg, var(--section-frost), rgba(255, 255, 255, 0.28)),
+    linear-gradient(180deg, var(--section-accent-soft), transparent 52%);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 18px 56px rgba(16, 24, 32, 0.08);
+  content: "";
+}
+
+@supports not (backdrop-filter: blur(1px)) {
+  .content-section::before {
+    background:
+      linear-gradient(135deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.42)),
+      linear-gradient(180deg, var(--section-accent-soft), transparent 52%);
+  }
 }
 
 .section--path {
   --section-accent: var(--color-teal);
   --section-accent-strong: var(--color-teal);
-  --section-accent-soft: rgba(15, 109, 106, 0.1);
+  --section-accent-soft: rgba(15, 109, 106, 0.11);
+  --section-frost: rgba(239, 249, 247, 0.62);
+  --section-frost-edge: rgba(15, 109, 106, 0.18);
   --section-card-gradient: var(--color-teal);
   --section-card-border: rgba(15, 109, 106, 0.46);
 }
@@ -357,9 +384,12 @@ h1 {
 .section--process {
   --section-accent: var(--color-gold);
   --section-accent-strong: #8a6517;
-  --section-accent-soft: rgba(207, 168, 84, 0.16);
+  --section-accent-soft: rgba(207, 168, 84, 0.14);
+  --section-frost: rgba(255, 249, 232, 0.6);
+  --section-frost-edge: rgba(207, 168, 84, 0.22);
   --section-card-gradient: var(--color-gold);
   --section-card-border: rgba(207, 168, 84, 0.54);
+  margin-top: 28px;
 }
 
 .section-heading {
@@ -734,6 +764,11 @@ h2 {
     grid-template-columns: 1fr;
   }
 
+  .content-section {
+    padding-top: 34px;
+    padding-bottom: 88px;
+  }
+
   .course-carousel .course-card {
     flex-basis: calc((100% - 16px) / 2);
   }
@@ -747,6 +782,11 @@ h2 {
   .hero,
   .content-section {
     width: min(100% - 28px, 1180px);
+  }
+
+  .content-section {
+    padding-right: 14px;
+    padding-left: 14px;
   }
 
   h1 {
