@@ -527,7 +527,7 @@ a:"$Sreact.suspense"
       </div>
     </div>
   </div>
-</div>0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<header>\n  <nav class=\"navbar top-navbar\">\n    <div class=\"container-fluid\">\n      <div class=\"navbar-header\">\n        <a class=\"navbar-brand\" href=\"/op-os-playbook/site/pages/index/\">\n          <img\n            src=\"/op-os-playbook/site/assets/images/logos/logo.svg\"\n            alt=\"Konica Minolta\"\n            class=\"img-responsive\" />\n        </a>\n      </div>\n    </div>\n  </nav>\n</header>"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"OUdQeiyyXJqxYrrVowZYH"}
+</div>0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<header>\n  <nav class=\"navbar top-navbar\">\n    <div class=\"container-fluid\">\n      <div class=\"navbar-header\">\n        <a class=\"navbar-brand\" href=\"/op-os-playbook/site/pages/index/\">\n          <img\n            src=\"/op-os-playbook/site/assets/images/logos/logo.svg\"\n            alt=\"Konica Minolta\"\n            class=\"img-responsive\" />\n        </a>\n      </div>\n    </div>\n  </nav>\n</header>"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XTQgVYWoIOknTtR8Uc_WK"}
 8:T8894,<div class="page">
       <div class="ligh-gray-bg">
         <div class="container-fluid">
