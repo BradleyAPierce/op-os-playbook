@@ -43,9 +43,6 @@ export function CertificationSplash() {
         </div>
 
         <div className="certification-card" aria-label="Certification overview">
-          <div className="card-grid">
-            <span className="card-kicker">Secure by layers of protection</span>
-          </div>
           <img
             src="LayeredSecurity_Logo_Badge.png"
             alt="Certified Layered Security Specialist badge"
@@ -90,7 +87,6 @@ export function CertificationSplash() {
       >
         <div className="section-heading">
           <div className="section-badge-card" aria-hidden="true">
-            <span className="section-badge-label">12-Course Path</span>
             <img
               src="LayeredSecurity_Logo_Badge.png"
               alt=""
@@ -113,7 +109,6 @@ export function CertificationSplash() {
       >
         <div className="section-heading">
           <div className="section-badge-card" aria-hidden="true">
-            <span className="section-badge-label">Certification Steps</span>
             <img
               src="LayeredSecurity_Logo_Badge.png"
               alt=""
