@@ -104,23 +104,36 @@ h1 {
 }
 
 .hero-rotator {
-  height: clamp(3rem, 7vw, 6.5rem);
+  --hero-rotator-font-size: clamp(3rem, 7vw, 6.5rem);
+  --hero-rotator-line-height: 0.96;
+  --hero-rotator-lines: 2;
+  height: calc(
+    var(--hero-rotator-font-size) *
+    var(--hero-rotator-line-height) *
+    var(--hero-rotator-lines)
+  );
   margin-bottom: 24px;
   overflow: hidden;
 }
 
 .hero-rotator-track {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   animation: hero-phrase-roll 9s infinite;
 }
 
 .hero-rotator-item {
-  display: block;
-  height: clamp(3rem, 7vw, 6.5rem);
+  display: flex;
+  min-height: calc(
+    var(--hero-rotator-font-size) *
+    var(--hero-rotator-line-height) *
+    var(--hero-rotator-lines)
+  );
+  align-items: flex-start;
   color: var(--color-signal);
-  font-size: clamp(3rem, 7vw, 6.5rem);
+  font-size: var(--hero-rotator-font-size);
   font-weight: 900;
-  line-height: 0.96;
+  line-height: var(--hero-rotator-line-height);
   letter-spacing: 0;
 }
 
@@ -132,16 +145,16 @@ h1 {
 
   33%,
   55% {
-    transform: translateY(-25%);
+    transform: translateY(calc(-1 * 100% / 4));
   }
 
   66%,
   88% {
-    transform: translateY(-50%);
+    transform: translateY(calc(-2 * 100% / 4));
   }
 
   100% {
-    transform: translateY(-75%);
+    transform: translateY(calc(-3 * 100% / 4));
   }
 }
 
@@ -157,7 +170,7 @@ h1 {
   }
 
   .hero-rotator-item {
-    height: auto;
+    min-height: auto;
   }
 
   .hero-rotator-item[aria-hidden="true"] {
@@ -435,6 +448,10 @@ h2 {
 
   h1 {
     font-size: 2.75rem;
+  }
+
+  .hero-rotator {
+    --hero-rotator-font-size: 2.75rem;
   }
 
   .hero-actions,
