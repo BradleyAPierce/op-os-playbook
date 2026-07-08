@@ -79,6 +79,18 @@ a {
   font-weight: 800;
 }
 
+.brand-mark--logo {
+  width: 112px;
+  padding: 8px;
+  background: var(--color-surface);
+}
+
+.brand-mark--logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .brand-text {
   display: grid;
   gap: 2px;

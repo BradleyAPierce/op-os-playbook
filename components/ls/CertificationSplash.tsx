@@ -4,9 +4,6 @@ import { CoursePath } from "./CoursePath";
 import { SiteHeader } from "./SiteHeader";
 import { StatusPill } from "./StatusPill";
 
-const kmAcademyLogoUrl =
-  "https://raw.githubusercontent.com/BradleyAPierce/op-os-images/2f90237d6b0cfda8d9edb533b6b19241404ca991/KMA-blk.svg";
-
 export function CertificationSplash() {
   const {
     audience,
@@ -42,8 +39,8 @@ export function CertificationSplash() {
             <span className="card-kicker">Secure by layers of protection</span>
           </div>
           <img
-            src={kmAcademyLogoUrl}
-            alt="KM Academy"
+            src="LayeredSecurity_Logo_Badge.png"
+            alt="Certified Layered Security Specialist badge"
             className="shield-mark"
           />
           <div className="card-footer">
