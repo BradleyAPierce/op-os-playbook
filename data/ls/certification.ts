@@ -402,53 +402,57 @@ export const certificationContent: CertificationContent = {
   ],
   process: {
     eyebrow: "Certification Process",
-    title: "Finish the certification process.",
+    title: "How Certification Is Earned",
     summary:
-      "Follow the steps to enroll, complete the coursework, validate readiness, and apply the certification in customer conversations.",
+      "Complete the required learning path, collaborate with your SSE, apply layered security in a real customer opportunity, and submit your completion requirements to earn the Certified Layered Security Specialist designation.",
     steps: [
       {
-        id: "process-enroll",
-        title: "Enroll",
-        summary: "Start the certification experience and review expected outcomes.",
-        pillLabel: "Certification Step",
+        id: "process-learning-path",
+        title: "Complete the Learning Path",
+        summary:
+          "Complete the 12-course Layered Security curriculum to build the knowledge and confidence needed for customer security conversations.",
+        pillLabel: "Learning Requirement",
         description:
-          "Start the certification experience and review the expected learning outcomes.",
+          "Every Certified Layered Security Specialist begins by completing the required learning curriculum.\n\nAcross twelve focused courses, you will learn how to explain the Layered Security model, identify customer risk, position layered security solutions, and confidently discuss document, device, user, workflow, and data protection.\n\nThe curriculum is designed to prepare you for real customer conversations — not simply course completion.",
         href: "#",
         buttonLabel: "View Step",
-        modalButtonLabel: "TAKE ACTION NOW"
+        modalButtonLabel: "CONTINUE LEARNING"
       },
       {
-        id: "process-coursework",
-        title: "Complete coursework",
-        summary: "Move through the course path and apply the layered security framework.",
-        pillLabel: "Certification Step",
+        id: "process-sse-collaboration",
+        title: "Collaborate with Your SSE",
+        summary:
+          "Partner with your Solutions and Services Executive early to strengthen discovery, solution design, and customer conversations.",
+        pillLabel: "SSE Collaboration",
         description:
-          "Move through the course path and apply the layered security framework to practical scenarios.",
+          "Your Solutions and Services Executive is part of the certification process.\n\nEngaging your SSE early helps you identify the right customer opportunities, align the proper security solutions, strengthen your sales strategy, and improve the quality of the customer conversation.\n\nThis collaboration is one of the keys to certification success.",
         href: "#",
         buttonLabel: "View Step",
-        modalButtonLabel: "TAKE ACTION NOW"
+        modalButtonLabel: "WORK WITH YOUR SSE"
       },
       {
-        id: "process-validate",
-        title: "Validate readiness",
-        summary: "Confirm the ability to position the framework with confidence.",
-        pillLabel: "Certification Step",
+        id: "process-qualifying-opportunity",
+        title: "Complete a $5,000 Opportunity",
+        summary:
+          "Demonstrate your skills by completing a qualifying Layered Security opportunity valued at $5,000 or more.",
+        pillLabel: "Business Requirement",
         description:
-          "Complete the certification checkpoint and confirm the ability to position the framework.",
+          "This certification is earned through real business results.\n\nTo become a Certified Layered Security Specialist, you must complete a qualifying Layered Security opportunity valued at $5,000 or more.\n\nThis requirement demonstrates that you can apply the Layered Security model, identify customer needs, position solutions effectively, and translate learning into measurable business value.\n\nThis is what transforms the certification from training into professional credibility.",
         href: "#",
         buttonLabel: "View Step",
-        modalButtonLabel: "TAKE ACTION NOW"
+        modalButtonLabel: "VIEW QUALIFICATION GUIDE"
       },
       {
-        id: "process-apply",
-        title: "Apply in the field",
-        summary: "Use the framework in discovery, recommendations, and follow-through.",
-        pillLabel: "Certification Step",
+        id: "process-earn-certification",
+        title: "Earn Your Certification",
+        summary:
+          "Submit your completed requirements and receive your Certified Layered Security Specialist designation and recognition.",
+        pillLabel: "Certification Completion",
         description:
-          "Use the certification framework to support customer discovery, recommendations, and follow-through.",
+          "After completing the certification requirements, you will receive official recognition as a Certified Layered Security Specialist.\n\nRecognition may include a Certificate of Achievement, digital certification badge, email signature assets, business card emblem, and recognition in the Direct Channel Marketing Sales Newsletter.\n\nYour success may also contribute valuable knowledge for colleagues through shared success stories and case studies.",
         href: "#",
         buttonLabel: "View Step",
-        modalButtonLabel: "TAKE ACTION NOW"
+        modalButtonLabel: "SUBMIT CERTIFICATION"
       }
     ]
   },
