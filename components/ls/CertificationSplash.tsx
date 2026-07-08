@@ -59,8 +59,16 @@ export function CertificationSplash() {
 
       <section id="path" className="content-section" aria-labelledby="path-title">
         <div className="section-heading">
-          <p className="eyebrow">{coursePath.eyebrow}</p>
+          <div className="section-badge-card" aria-hidden="true">
+            <span className="section-badge-label">12-Course Path</span>
+            <img
+              src="LayeredSecurity_Logo_Badge.png"
+              alt=""
+              className="section-badge-mark"
+            />
+          </div>
           <div>
+            <p className="eyebrow">{coursePath.eyebrow}</p>
             <h2 id="path-title">{coursePath.title}</h2>
             <p className="section-summary">{coursePath.summary}</p>
           </div>
@@ -74,8 +82,16 @@ export function CertificationSplash() {
         aria-labelledby="process-title"
       >
         <div className="section-heading">
-          <p className="eyebrow">{process.eyebrow}</p>
+          <div className="section-badge-card" aria-hidden="true">
+            <span className="section-badge-label">Certification Steps</span>
+            <img
+              src="LayeredSecurity_Logo_Badge.png"
+              alt=""
+              className="section-badge-mark"
+            />
+          </div>
           <div>
+            <p className="eyebrow">{process.eyebrow}</p>
             <h2 id="process-title">{process.title}</h2>
             <p className="section-summary">{process.summary}</p>
           </div>

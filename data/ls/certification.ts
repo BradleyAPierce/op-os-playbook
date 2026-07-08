@@ -171,9 +171,9 @@ export const certificationContent: CertificationContent = {
   },
   coursePath: {
     eyebrow: "Course Path",
-    title: "Build understanding around the layers of secure customer workflows.",
+    title: "Complete the 12-course path.",
     summary:
-      "The course path focuses on what learners need to understand: the security model, the customer discovery lens, and the value story behind layered protection.",
+      "Explore the courses that build shared language, customer discovery skills, and layered security confidence.",
     courses: [
       {
         id: "course-01",
@@ -340,9 +340,9 @@ export const certificationContent: CertificationContent = {
   ],
   process: {
     eyebrow: "Certification Process",
-    title: "Complete certification through a clear sequence of actions.",
+    title: "Finish the certification process.",
     summary:
-      "The process explains how learners move through certification completion, from enrollment and coursework to validation and field application.",
+      "Follow the steps to enroll, complete the coursework, validate readiness, and apply the certification in customer conversations.",
     steps: [
       {
         title: "Enroll",

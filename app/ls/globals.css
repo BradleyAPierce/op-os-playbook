@@ -297,6 +297,36 @@ h1 {
   filter: drop-shadow(0 24px 36px rgba(0, 0, 0, 0.28));
 }
 
+.section-badge-card {
+  display: grid;
+  min-height: 220px;
+  align-content: space-between;
+  justify-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  padding: 22px;
+  background:
+    linear-gradient(180deg, rgba(16, 24, 32, 0.88), rgba(16, 24, 32, 0.96)),
+    linear-gradient(135deg, var(--color-teal), var(--color-signal));
+  box-shadow: var(--shadow-elevated);
+  color: var(--color-text-inverse);
+}
+
+.section-badge-label {
+  color: rgba(247, 245, 239, 0.72);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.section-badge-mark {
+  display: block;
+  width: min(68%, 132px);
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 18px 28px rgba(0, 0, 0, 0.26));
+}
+
 .content-section {
   width: min(1180px, calc(100% - 40px));
   margin: 0 auto;
@@ -312,7 +342,7 @@ h1 {
 }
 
 .section-heading .eyebrow {
-  margin-top: 7px;
+  margin: 0 0 14px;
 }
 
 .section-summary {
@@ -457,6 +487,11 @@ h2 {
     min-height: 380px;
   }
 
+  .section-badge-card {
+    width: min(100%, 280px);
+    min-height: 220px;
+  }
+
   .course-grid,
   .process-grid,
   .section-heading {
@@ -489,6 +524,15 @@ h2 {
 
   .certification-card {
     padding: 20px;
+  }
+
+  .section-badge-card {
+    min-height: 180px;
+    padding: 18px;
+  }
+
+  .section-badge-mark {
+    width: min(58%, 112px);
   }
 
   .course-modal-backdrop {
