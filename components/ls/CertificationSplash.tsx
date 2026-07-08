@@ -28,6 +28,16 @@ export function CertificationSplash() {
             </span>
           </div>
           <p className="summary">{hero.summary}</p>
+          <div className="hero-actions">
+            <CTAButton
+              href={hero.secondaryHref}
+              variant="secondary"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {hero.secondaryAction}
+            </CTAButton>
+          </div>
         </div>
 
         <div className="certification-card" aria-label="Certification overview">

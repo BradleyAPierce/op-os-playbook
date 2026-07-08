@@ -230,6 +230,20 @@ h1 {
   outline: none;
 }
 
+.hero-actions .cta-button--secondary {
+  border-color: var(--color-signal);
+  background: var(--color-signal);
+  color: var(--color-text-inverse);
+}
+
+.hero-actions .cta-button--secondary:hover,
+.hero-actions .cta-button--secondary:focus-visible {
+  border-color: var(--color-primary-hover);
+  background: var(--color-primary-hover);
+  color: var(--color-text-inverse);
+  outline: none;
+}
+
 .cta-button--card {
   border-color: var(--color-signal);
   background: var(--color-signal);

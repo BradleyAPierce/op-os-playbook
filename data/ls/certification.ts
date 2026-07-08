@@ -10,6 +10,7 @@ export type HeroContent = {
   summary: string;
   primaryAction: string;
   secondaryAction: string;
+  secondaryHref: string;
   status: string;
 };
 
@@ -86,6 +87,9 @@ export type CertificationContent = {
   finalCTA: FinalCTA;
 };
 
+export const certificationGuideHref =
+  "https://d2zd6ny1q7rvh6.cloudfront.net/02e3df82-954a-47ca-97ab-c725168acaba/2bd914f58a98456e9624f1bd8bea3367?response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Introduction-to-Layered-Security-Certification-Guide.pdf&response-content-type=application%2Fpdf&Expires=1783641600&Signature=BhOgILkvvoLbbMNa~g7rLqfzEOfwL-zhQnUgSplbAa8LtjpoU44hGwkwD4ZP7Iu~4E5K0AFOAQlWj6JRy~GLoG1wHns2ZikKzvK-khF3K1B20Ksdv-1RkSVjDv-kJNccBd54rZOVSatpRgMwZ9FWAh~ughqWTFBPsKfxSxUqvHid62S7pcLAumBZjwcXQ1Yp-BBLyFTZdggHoRue-rma6wbNSLgRGadrT7FSG3rjhBltkTPrUNO~4naK~fwjYaQmckL0Ty8cfdkqycRdiftQDtCskW93fm171CuqI-PWDoXaZPsQ9H~qr1lmXSEvUnWghsXnUl5CBRRstC1-jti5bQ__&Key-Pair-Id=APKAI33AGAEAYCXFBDTA";
+
 export const certificationContent: CertificationContent = {
   eyebrow: "Certified Layered Security Specialist",
   title: "Certification Built to:",
@@ -101,7 +105,8 @@ export const certificationContent: CertificationContent = {
     summary:
       "Build the confidence to lead meaningful security conversations, identify customer risk, and position layered security solutions that protect devices, documents, users, and data.",
     primaryAction: "Start Certification",
-    secondaryAction: "View Readiness Path",
+    secondaryAction: "Download Certification Guide (PDF)",
+    secondaryHref: certificationGuideHref,
     status: "Certification splash page"
   },
   proofPoints: [
