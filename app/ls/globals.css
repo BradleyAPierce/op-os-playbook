@@ -458,6 +458,17 @@ h1 {
   line-height: 1.6;
 }
 
+.course-path-framing {
+  max-width: 680px;
+  margin: 18px 0 0;
+  border-left: 4px solid var(--color-teal);
+  padding-left: 16px;
+  color: var(--color-teal);
+  font-size: 1rem;
+  font-weight: 800;
+  line-height: 1.55;
+}
+
 h2 {
   margin-bottom: 0;
   font-size: clamp(2rem, 4vw, 4.6rem);

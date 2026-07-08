@@ -97,6 +97,7 @@ export function CertificationSplash() {
             <p className="eyebrow">{coursePath.eyebrow}</p>
             <h2 id="path-title">{coursePath.title}</h2>
             <p className="section-summary">{coursePath.summary}</p>
+            <p className="course-path-framing">{coursePath.framing}</p>
           </div>
         </div>
         <CoursePath courses={coursePath.courses} />

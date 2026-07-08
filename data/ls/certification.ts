@@ -92,6 +92,7 @@ export type CertificationContent = {
     roles: AudienceCard[];
   };
   coursePath: SectionIntro & {
+    framing: string;
     courses: CourseCard[];
   };
   customerProof: CustomerProof;
@@ -142,7 +143,7 @@ export const certificationContent: CertificationContent = {
     eyebrow: "Why This Certification Is Different",
     title: "This is not just training. It is proof you can apply layered security.",
     summary:
-      "The Certified Layered Security Specialist program connects learning, SSE collaboration, customer discovery, and real business opportunity. To earn the designation, participants do more than complete coursework- they demonstrate the ability to turn layered security knowledge into customer value.",
+      "The Certified Layered Security Specialist program connects learning, SSE collaboration, customer discovery, and real business opportunity. To earn the designation, participants do more than complete coursework- they build stronger customer conversations, increase credibility, and demonstrate the ability to turn layered security knowledge into more qualified opportunities.",
     cards: [
       {
         title: "Learn the Framework",
@@ -218,6 +219,8 @@ export const certificationContent: CertificationContent = {
     title: "Complete the 12-course path.",
     summary:
       "Explore the courses that build shared language, customer discovery skills, and layered security confidence.",
+    framing:
+      "The 12-course path moves from security fundamentals to customer discovery, solution positioning, and real-world success stories.",
     courses: [
       {
         id: "course-01",
@@ -437,7 +440,7 @@ export const certificationContent: CertificationContent = {
           "Demonstrate your skills by completing a qualifying Layered Security opportunity valued at $5,000 or more.",
         pillLabel: "Business Requirement",
         description:
-          "This certification is earned through real business results.\n\nTo become a Certified Layered Security Specialist, you must complete a qualifying Layered Security opportunity valued at $5,000 or more.\n\nThis requirement demonstrates that you can apply the Layered Security model, identify customer needs, position solutions effectively, and translate learning into measurable business value.\n\nThis is what transforms the certification from training into professional credibility.",
+          "This certification is earned through real business results.\n\nTo become a Certified Layered Security Specialist, you must complete a real Layered Security-related customer opportunity valued at $5,000 or more.\n\nThis requirement demonstrates that you can apply the certification in a live sales environment: identifying customer needs, positioning solutions effectively, and translating learning into measurable business value.\n\nIt connects training to pipeline, progress, and performance. This is what transforms the certification from coursework into professional credibility.",
         href: "#",
         buttonLabel: "View Step",
         modalButtonLabel: "VIEW QUALIFICATION GUIDE"
