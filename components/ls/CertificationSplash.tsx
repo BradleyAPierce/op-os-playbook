@@ -28,12 +28,6 @@ export function CertificationSplash() {
             </span>
           </div>
           <p className="summary">{hero.summary}</p>
-          <div className="hero-actions" aria-label="Certification actions">
-            <CTAButton href="#path">{hero.primaryAction}</CTAButton>
-            <CTAButton href="#readiness" variant="secondary">
-              {hero.secondaryAction}
-            </CTAButton>
-          </div>
         </div>
 
         <div className="certification-card" aria-label="Certification overview">
@@ -46,7 +40,9 @@ export function CertificationSplash() {
             className="shield-mark"
           />
           <div className="card-footer">
-            <strong>Certification Ready</strong>
+            <CTAButton href="#path" variant="card">
+              {hero.primaryAction}
+            </CTAButton>
           </div>
         </div>
       </section>

@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 type CTAButtonProps = {
   children: ReactNode;
   href: string;
-  variant?: "primary" | "secondary";
+  variant?: "primary" | "secondary" | "card";
 };
 
 export function CTAButton({

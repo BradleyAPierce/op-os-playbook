@@ -230,6 +230,19 @@ h1 {
   outline: none;
 }
 
+.cta-button--card {
+  border-color: var(--color-signal);
+  background: var(--color-signal);
+  color: var(--color-text-inverse);
+}
+
+.cta-button--card:hover,
+.cta-button--card:focus-visible {
+  border-color: var(--color-gold);
+  background: var(--color-primary-hover);
+  outline: none;
+}
+
 .certification-card {
   position: relative;
   display: grid;
@@ -259,11 +272,6 @@ h1 {
   font-size: 0.82rem;
   font-weight: 800;
   text-transform: uppercase;
-}
-
-.card-footer strong {
-  font-size: 1.1rem;
-  text-align: center;
 }
 
 .shield-mark {
