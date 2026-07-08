@@ -56,7 +56,7 @@ export function CoursePath({ courses }: CoursePathProps) {
           <div
             aria-labelledby="course-modal-title"
             aria-modal="true"
-            className="course-modal"
+            className="course-modal course-modal--path"
             role="dialog"
             onMouseDown={(event) => event.stopPropagation()}
           >

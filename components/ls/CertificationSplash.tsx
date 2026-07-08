@@ -11,7 +11,7 @@ export function CertificationSplash() {
 
   return (
     <main id="top" className="page-shell">
-      <section className="hero" aria-labelledby="certification-title">
+      <section className="hero section--hero" aria-labelledby="certification-title">
         <div className="hero-copy">
           <p className="eyebrow">{hero.eyebrow}</p>
           <h1 id="certification-title">{hero.title}</h1>
@@ -57,7 +57,11 @@ export function CertificationSplash() {
         </div>
       </section>
 
-      <section id="path" className="content-section" aria-labelledby="path-title">
+      <section
+        id="path"
+        className="content-section section--path"
+        aria-labelledby="path-title"
+      >
         <div className="section-heading">
           <div className="section-badge-card" aria-hidden="true">
             <span className="section-badge-label">12-Course Path</span>
@@ -78,7 +82,7 @@ export function CertificationSplash() {
 
       <section
         id="process"
-        className="content-section"
+        className="content-section section--process"
         aria-labelledby="process-title"
       >
         <div className="section-heading">
