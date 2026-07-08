@@ -97,10 +97,72 @@ p {
 
 h1 {
   max-width: 860px;
-  margin-bottom: 24px;
+  margin-bottom: 14px;
   font-size: clamp(3rem, 7vw, 6.5rem);
   line-height: 0.96;
   letter-spacing: 0;
+}
+
+.hero-rotator {
+  height: clamp(3rem, 7vw, 6.5rem);
+  margin-bottom: 24px;
+  overflow: hidden;
+}
+
+.hero-rotator-track {
+  display: grid;
+  animation: hero-phrase-roll 9s infinite;
+}
+
+.hero-rotator-item {
+  display: block;
+  height: clamp(3rem, 7vw, 6.5rem);
+  color: var(--color-signal);
+  font-size: clamp(3rem, 7vw, 6.5rem);
+  font-weight: 900;
+  line-height: 0.96;
+  letter-spacing: 0;
+}
+
+@keyframes hero-phrase-roll {
+  0%,
+  22% {
+    transform: translateY(0);
+  }
+
+  33%,
+  55% {
+    transform: translateY(-25%);
+  }
+
+  66%,
+  88% {
+    transform: translateY(-50%);
+  }
+
+  100% {
+    transform: translateY(-75%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-rotator {
+    height: auto;
+    overflow: visible;
+  }
+
+  .hero-rotator-track {
+    gap: 8px;
+    animation: none;
+  }
+
+  .hero-rotator-item {
+    height: auto;
+  }
+
+  .hero-rotator-item[aria-hidden="true"] {
+    display: none;
+  }
 }
 
 .summary {

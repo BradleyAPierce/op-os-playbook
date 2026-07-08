@@ -6,6 +6,7 @@ export type CertificationStep = {
 export type HeroContent = {
   eyebrow: string;
   title: string;
+  rotatingPhrases: string[];
   summary: string;
   primaryAction: string;
   secondaryAction: string;
@@ -87,7 +88,7 @@ export type CertificationContent = {
 
 export const certificationContent: CertificationContent = {
   eyebrow: "Layered Security Initiative",
-  title: "Certification built for secure print, document, and device workflows.",
+  title: "Certification Built to:",
   summary:
     "A focused launch experience for teams preparing to understand, position, and validate layered security practices across the customer environment.",
   primaryAction: "Start Certification",
@@ -95,7 +96,8 @@ export const certificationContent: CertificationContent = {
   status: "Certification splash page",
   hero: {
     eyebrow: "Layered Security Initiative",
-    title: "Certification built for secure print, document, and device workflows.",
+    title: "Certification Built to:",
+    rotatingPhrases: ["DRIVE SALES", "START CONVERSATIONS", "BUILD PARTNERSHIPS"],
     summary:
       "A focused launch experience for teams preparing to understand, position, and validate layered security practices across the customer environment.",
     primaryAction: "Start Certification",

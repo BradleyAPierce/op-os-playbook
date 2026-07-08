@@ -15,6 +15,18 @@ export function CertificationSplash() {
         <div className="hero-copy">
           <p className="eyebrow">{hero.eyebrow}</p>
           <h1 id="certification-title">{hero.title}</h1>
+          <div className="hero-rotator" aria-label={hero.rotatingPhrases.join(", ")}>
+            <span className="hero-rotator-track">
+              {hero.rotatingPhrases.map((phrase) => (
+                <span className="hero-rotator-item" key={phrase}>
+                  {phrase}
+                </span>
+              ))}
+              <span className="hero-rotator-item" aria-hidden="true">
+                {hero.rotatingPhrases[0]}
+              </span>
+            </span>
+          </div>
           <p className="summary">{hero.summary}</p>
           <div className="hero-actions" aria-label="Certification actions">
             <CTAButton href="#path">{hero.primaryAction}</CTAButton>
