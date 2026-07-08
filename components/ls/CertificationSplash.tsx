@@ -6,14 +6,10 @@ import { StatusPill } from "./StatusPill";
 
 export function CertificationSplash() {
   const {
-    audience,
     coursePath,
-    customerProof,
-    finalCTA,
     hero,
     process,
-    proofPoints,
-    whyCertification
+    proofPoints
   } = certificationContent;
 
   return (
@@ -58,46 +54,6 @@ export function CertificationSplash() {
         ))}
       </section>
 
-      <section id="why" className="content-section" aria-labelledby="why-title">
-        <div className="section-heading">
-          <p className="eyebrow">{whyCertification.eyebrow}</p>
-          <div>
-            <h2 id="why-title">{whyCertification.title}</h2>
-            <p className="section-summary">{whyCertification.summary}</p>
-          </div>
-        </div>
-        <div className="card-list">
-          {whyCertification.points.map((point) => (
-            <article className="info-card" key={point.title}>
-              <h3>{point.title}</h3>
-              <p>{point.description}</p>
-            </article>
-          ))}
-        </div>
-      </section>
-
-      <section
-        id="audience"
-        className="content-section audience-section"
-        aria-labelledby="audience-title"
-      >
-        <div className="section-heading">
-          <p className="eyebrow">{audience.eyebrow}</p>
-          <div>
-            <h2 id="audience-title">{audience.title}</h2>
-            <p className="section-summary">{audience.summary}</p>
-          </div>
-        </div>
-        <div className="audience-grid">
-          {audience.roles.map((role) => (
-            <article className="audience-card" key={role.role}>
-              <h3>{role.role}</h3>
-              <p>{role.description}</p>
-            </article>
-          ))}
-        </div>
-      </section>
-
       <section id="path" className="content-section" aria-labelledby="path-title">
         <div className="section-heading">
           <p className="eyebrow">{coursePath.eyebrow}</p>
@@ -107,26 +63,6 @@ export function CertificationSplash() {
           </div>
         </div>
         <CoursePath courses={coursePath.courses} />
-      </section>
-
-      <section
-        id="proof"
-        className="content-section proof-story-section"
-        aria-labelledby="proof-title"
-      >
-        <div className="proof-story">
-          <div>
-            <p className="eyebrow">{customerProof.eyebrow}</p>
-            <h2 id="proof-title">{customerProof.title}</h2>
-            <p className="story-copy">{customerProof.story}</p>
-            <p className="story-attribution">{customerProof.attribution}</p>
-          </div>
-          <ul className="proof-list" aria-label="Customer proof points">
-            {customerProof.proofPoints.map((point) => (
-              <li key={point}>{point}</li>
-            ))}
-          </ul>
-        </div>
       </section>
 
       <section
@@ -149,18 +85,6 @@ export function CertificationSplash() {
               <p>{step.description}</p>
             </article>
           ))}
-        </div>
-      </section>
-
-      <section className="final-cta" aria-labelledby="final-cta-title">
-        <p className="eyebrow">{finalCTA.eyebrow}</p>
-        <h2 id="final-cta-title">{finalCTA.title}</h2>
-        <p className="final-cta-summary">{finalCTA.summary}</p>
-        <div className="hero-actions" aria-label="Final certification actions">
-          <CTAButton href="#path">{finalCTA.primaryAction}</CTAButton>
-          <CTAButton href="#process" variant="secondary">
-            {finalCTA.secondaryAction}
-          </CTAButton>
         </div>
       </section>
     </main>
